@@ -1,69 +1,48 @@
 import asyncio
-import os
-import ssl
 
 import asyncpg
 
-_pool = None
+from api.db_url import normalized_supabase_db_url, ssl_arg_for_asyncpg
+
+_pool_url = normalized_supabase_db_url() or None
+
+pool = None
 _pool_lock = asyncio.Lock()
 
 
-def _dsn() -> str:
-    url = os.environ.get("SUPABASE_DB_URL")
-    if not url:
-        raise RuntimeError(
-            "SUPABASE_DB_URL is not set. Add it in Railway / hosting env (or `.env` locally)."
-        )
-    return url
-
-
-def _connect_ssl():
-    """Supabase requires TLS; pooler and direct both expect SSL."""
-    if os.environ.get("DATABASE_SSL", "").lower() in ("0", "false", "no"):
-        return False
-    # Last resort: encrypt only (no CA verify). Some hosts still fail verify despite
-    # certifi; set only if you accept MITM risk on that network path.
-    if os.environ.get("DATABASE_SSL_INSECURE", "").lower() in ("1", "true", "yes"):
-        ctx = ssl.SSLContext(ssl.PROTOCOL_TLS_CLIENT)
-        ctx.check_hostname = False
-        ctx.verify_mode = ssl.CERT_NONE
-        return ctx
-    # Nixpacks/Railway images often ship an incomplete CA bundle; certifi matches
-    # public roots asyncpg needs for *.pooler.supabase.com / *.supabase.co.
-    try:
-        import certifi
-
-        return ssl.create_default_context(cafile=certifi.where())
-    except ImportError:
-        return ssl.create_default_context()
-
-
 async def get_pool():
-    """
-    Lazy pool + one-time column probe. Keeps startup (and /health) fast so platform
-    healthchecks succeed before Postgres is contacted.
-    """
-    global _pool
-    if _pool is not None:
-        return _pool
+    global pool
+    if pool is not None:
+        return pool
     async with _pool_lock:
-        if _pool is not None:
-            return _pool
+        if pool is not None:
+            return pool
+        if not _pool_url:
+            raise RuntimeError(
+                "SUPABASE_DB_URL environment variable not set. Add it in Railway or `.env`."
+            )
+        ssl_kw = {}
+        sa = ssl_arg_for_asyncpg()
+        if sa is not None:
+            ssl_kw["ssl"] = sa
+        pool = await asyncpg.create_pool(
+            _pool_url,
+            min_size=1,
+            max_size=5,
+            statement_cache_size=0,  # required for Supabase pooler / transaction mode
+            max_inactive_connection_lifetime=300,
+            command_timeout=60,
+            **ssl_kw,
+        )
         from api.column_probe import load_column_flags
 
-        _pool = await asyncpg.create_pool(
-            _dsn(),
-            min_size=1,
-            max_size=10,
-            statement_cache_size=0,  # required for Supabase transaction-mode pooler
-            ssl=_connect_ssl(),
-        )
-        async with _pool.acquire() as conn:
+        async with pool.acquire() as conn:
             await load_column_flags(conn)
-        return _pool
+        return pool
 
 
 async def get_conn():
-    pool = await get_pool()
-    async with pool.acquire() as conn:
+    """FastAPI Depends: yields a connection and returns it to the pool after the request."""
+    p = await get_pool()
+    async with p.acquire() as conn:
         yield conn

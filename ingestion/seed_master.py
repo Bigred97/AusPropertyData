@@ -5,13 +5,11 @@ Usage: python -m ingestion.seed_master
 """
 import json
 import asyncio
-import asyncpg
 import os
 from datetime import datetime
 
 from api.scoring import compute_inv_profile
-
-SUPABASE_DB_URL = os.environ["SUPABASE_DB_URL"]  # postgres://...
+from ingestion.utils import asyncpg_connect_supabase
 
 
 def _num(v):
@@ -31,10 +29,7 @@ async def seed():
     with open(dataset_path) as f:
         suburbs = json.load(f)
 
-    conn = await asyncpg.connect(
-        SUPABASE_DB_URL,
-        statement_cache_size=0,  # required for Supabase transaction-mode pooler
-    )
+    conn = await asyncpg_connect_supabase(statement_cache_size=0)
 
     upserted = 0
     for r in suburbs:
