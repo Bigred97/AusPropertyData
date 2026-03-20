@@ -1,0 +1,1678 @@
+[
+  {
+    "suburb": "ABBOTSFORD",
+    "unit_price_2023": 530000
+  },
+  {
+    "suburb": "ABERFELDIE",
+    "unit_price_2023": 750000
+  },
+  {
+    "suburb": "AIRPORT WEST",
+    "unit_price_2023": 650000
+  },
+  {
+    "suburb": "ALBERT PARK",
+    "unit_price_2023": 980000
+  },
+  {
+    "suburb": "ALBION",
+    "unit_price_2023": 297000
+  },
+  {
+    "suburb": "ALFREDTON",
+    "unit_price_2023": 358000
+  },
+  {
+    "suburb": "ALPHINGTON",
+    "unit_price_2023": 775000
+  },
+  {
+    "suburb": "ALTONA",
+    "unit_price_2023": 700000
+  },
+  {
+    "suburb": "ALTONA MEADOWS",
+    "unit_price_2023": 520000
+  },
+  {
+    "suburb": "ALTONA NORTH",
+    "unit_price_2023": 787500
+  },
+  {
+    "suburb": "ARARAT",
+    "unit_price_2023": 315000
+  },
+  {
+    "suburb": "ARDEER",
+    "unit_price_2023": 576500
+  },
+  {
+    "suburb": "ARMADALE",
+    "unit_price_2023": 730000
+  },
+  {
+    "suburb": "ASCOT VALE",
+    "unit_price_2023": 540000
+  },
+  {
+    "suburb": "ASHBURTON",
+    "unit_price_2023": 1582000
+  },
+  {
+    "suburb": "ASHWOOD",
+    "unit_price_2023": 990000
+  },
+  {
+    "suburb": "ASPENDALE",
+    "unit_price_2023": 796000
+  },
+  {
+    "suburb": "AVONDALE HEIGHTS",
+    "unit_price_2023": 670000
+  },
+  {
+    "suburb": "BACCHUS MARSH",
+    "unit_price_2023": 430000
+  },
+  {
+    "suburb": "BALACLAVA",
+    "unit_price_2023": 580000
+  },
+  {
+    "suburb": "BALLAN",
+    "unit_price_2023": 475000
+  },
+  {
+    "suburb": "BALLARAT CENTRAL",
+    "unit_price_2023": 398500
+  },
+  {
+    "suburb": "BALLARAT EAST",
+    "unit_price_2023": 405000
+  },
+  {
+    "suburb": "BALLARAT NORTH",
+    "unit_price_2023": 385000
+  },
+  {
+    "suburb": "BALWYN",
+    "unit_price_2023": 887500
+  },
+  {
+    "suburb": "BALWYN NORTH",
+    "unit_price_2023": 1288000
+  },
+  {
+    "suburb": "BARWON HEADS",
+    "unit_price_2023": 1025000
+  },
+  {
+    "suburb": "BAXTER",
+    "unit_price_2023": 607500
+  },
+  {
+    "suburb": "BAYSWATER",
+    "unit_price_2023": 639000
+  },
+  {
+    "suburb": "BAYSWATER NORTH",
+    "unit_price_2023": 605000
+  },
+  {
+    "suburb": "BEACONSFIELD",
+    "unit_price_2023": 534500
+  },
+  {
+    "suburb": "BEAUMARIS",
+    "unit_price_2023": 1250000
+  },
+  {
+    "suburb": "BELL PARK",
+    "unit_price_2023": 520000
+  },
+  {
+    "suburb": "BELL POST HILL",
+    "unit_price_2023": 437500
+  },
+  {
+    "suburb": "BENALLA",
+    "unit_price_2023": 302500
+  },
+  {
+    "suburb": "BENDIGO",
+    "unit_price_2023": 480000
+  },
+  {
+    "suburb": "BENTLEIGH",
+    "unit_price_2023": 815000
+  },
+  {
+    "suburb": "BENTLEIGH EAST",
+    "unit_price_2023": 1090000
+  },
+  {
+    "suburb": "BERWICK",
+    "unit_price_2023": 650000
+  },
+  {
+    "suburb": "BITTERN",
+    "unit_price_2023": 706500
+  },
+  {
+    "suburb": "BLACK HILL",
+    "unit_price_2023": 385000
+  },
+  {
+    "suburb": "BLACK ROCK",
+    "unit_price_2023": 1215000
+  },
+  {
+    "suburb": "BLACKBURN",
+    "unit_price_2023": 718000
+  },
+  {
+    "suburb": "BLACKBURN NORTH",
+    "unit_price_2023": 854500
+  },
+  {
+    "suburb": "BLACKBURN SOUTH",
+    "unit_price_2023": 911000
+  },
+  {
+    "suburb": "BONBEACH",
+    "unit_price_2023": 680000
+  },
+  {
+    "suburb": "BORONIA",
+    "unit_price_2023": 651500
+  },
+  {
+    "suburb": "BOX HILL",
+    "unit_price_2023": 585000
+  },
+  {
+    "suburb": "BOX HILL NORTH",
+    "unit_price_2023": 846000
+  },
+  {
+    "suburb": "BOX HILL SOUTH",
+    "unit_price_2023": 920000
+  },
+  {
+    "suburb": "BRAYBROOK",
+    "unit_price_2023": 600000
+  },
+  {
+    "suburb": "BRIAR HILL",
+    "unit_price_2023": 863000
+  },
+  {
+    "suburb": "BRIGHT",
+    "unit_price_2023": 636000
+  },
+  {
+    "suburb": "BRIGHTON",
+    "unit_price_2023": 1375000
+  },
+  {
+    "suburb": "BRIGHTON EAST",
+    "unit_price_2023": 1250000
+  },
+  {
+    "suburb": "BROADFORD",
+    "unit_price_2023": 450000
+  },
+  {
+    "suburb": "BROADMEADOWS",
+    "unit_price_2023": 445000
+  },
+  {
+    "suburb": "BROOKLYN",
+    "unit_price_2023": 630000
+  },
+  {
+    "suburb": "BROWN HILL",
+    "unit_price_2023": 389000
+  },
+  {
+    "suburb": "BRUNSWICK",
+    "unit_price_2023": 570000
+  },
+  {
+    "suburb": "BRUNSWICK EAST",
+    "unit_price_2023": 570000
+  },
+  {
+    "suburb": "BRUNSWICK WEST",
+    "unit_price_2023": 451000
+  },
+  {
+    "suburb": "BULLEEN",
+    "unit_price_2023": 890000
+  },
+  {
+    "suburb": "BUNDOORA",
+    "unit_price_2023": 460000
+  },
+  {
+    "suburb": "BURNLEY",
+    "unit_price_2023": 535000
+  },
+  {
+    "suburb": "BURWOOD",
+    "unit_price_2023": 861000
+  },
+  {
+    "suburb": "BURWOOD EAST",
+    "unit_price_2023": 622500
+  },
+  {
+    "suburb": "CAIRNLEA",
+    "unit_price_2023": 425000
+  },
+  {
+    "suburb": "CALIFORNIA GULLY",
+    "unit_price_2023": 365000
+  },
+  {
+    "suburb": "CAMBERWELL",
+    "unit_price_2023": 938500
+  },
+  {
+    "suburb": "CAMPBELLFIELD",
+    "unit_price_2023": 394000
+  },
+  {
+    "suburb": "CANADIAN",
+    "unit_price_2023": 381000
+  },
+  {
+    "suburb": "CANTERBURY",
+    "unit_price_2023": 1115000
+  },
+  {
+    "suburb": "CAPEL SOUND",
+    "unit_price_2023": 675000
+  },
+  {
+    "suburb": "CARLTON",
+    "unit_price_2023": 395000
+  },
+  {
+    "suburb": "CARLTON NORTH",
+    "unit_price_2023": 680000
+  },
+  {
+    "suburb": "CARNEGIE",
+    "unit_price_2023": 620000
+  },
+  {
+    "suburb": "CAROLINE SPRINGS",
+    "unit_price_2023": 481500
+  },
+  {
+    "suburb": "CARRUM",
+    "unit_price_2023": 730000
+  },
+  {
+    "suburb": "CARRUM DOWNS",
+    "unit_price_2023": 557500
+  },
+  {
+    "suburb": "CASTLEMAINE",
+    "unit_price_2023": 612000
+  },
+  {
+    "suburb": "CAULFIELD",
+    "unit_price_2023": 765000
+  },
+  {
+    "suburb": "CAULFIELD NORTH",
+    "unit_price_2023": 668500
+  },
+  {
+    "suburb": "CAULFIELD SOUTH",
+    "unit_price_2023": 1150000
+  },
+  {
+    "suburb": "CHADSTONE",
+    "unit_price_2023": 888000
+  },
+  {
+    "suburb": "CHELSEA",
+    "unit_price_2023": 688000
+  },
+  {
+    "suburb": "CHELSEA HEIGHTS",
+    "unit_price_2023": 626000
+  },
+  {
+    "suburb": "CHELTENHAM",
+    "unit_price_2023": 660000
+  },
+  {
+    "suburb": "CHIRNSIDE PARK",
+    "unit_price_2023": 701000
+  },
+  {
+    "suburb": "CLARINDA",
+    "unit_price_2023": 810000
+  },
+  {
+    "suburb": "CLAYTON",
+    "unit_price_2023": 680000
+  },
+  {
+    "suburb": "CLAYTON SOUTH",
+    "unit_price_2023": 535000
+  },
+  {
+    "suburb": "CLIFTON HILL",
+    "unit_price_2023": 737000
+  },
+  {
+    "suburb": "CLIFTON SPRINGS",
+    "unit_price_2023": 553500
+  },
+  {
+    "suburb": "CLYDE NORTH",
+    "unit_price_2023": 535000
+  },
+  {
+    "suburb": "COBRAM",
+    "unit_price_2023": 295000
+  },
+  {
+    "suburb": "COBURG",
+    "unit_price_2023": 590500
+  },
+  {
+    "suburb": "COBURG NORTH",
+    "unit_price_2023": 787500
+  },
+  {
+    "suburb": "COLAC",
+    "unit_price_2023": 440000
+  },
+  {
+    "suburb": "COLLINGWOOD",
+    "unit_price_2023": 642500
+  },
+  {
+    "suburb": "CORIO",
+    "unit_price_2023": 381500
+  },
+  {
+    "suburb": "COWES",
+    "unit_price_2023": 446000
+  },
+  {
+    "suburb": "CRAIGIEBURN",
+    "unit_price_2023": 440500
+  },
+  {
+    "suburb": "CRANBOURNE",
+    "unit_price_2023": 450000
+  },
+  {
+    "suburb": "CRANBOURNE EAST",
+    "unit_price_2023": 510000
+  },
+  {
+    "suburb": "CRANBOURNE NORTH",
+    "unit_price_2023": 506000
+  },
+  {
+    "suburb": "CRANBOURNE WEST",
+    "unit_price_2023": 537500
+  },
+  {
+    "suburb": "CREMORNE",
+    "unit_price_2023": 625000
+  },
+  {
+    "suburb": "CRIB POINT",
+    "unit_price_2023": 560000
+  },
+  {
+    "suburb": "CROYDON",
+    "unit_price_2023": 675000
+  },
+  {
+    "suburb": "CROYDON NORTH",
+    "unit_price_2023": 715000
+  },
+  {
+    "suburb": "CROYDON SOUTH",
+    "unit_price_2023": 755500
+  },
+  {
+    "suburb": "DALLAS",
+    "unit_price_2023": 447500
+  },
+  {
+    "suburb": "DANDENONG",
+    "unit_price_2023": 400000
+  },
+  {
+    "suburb": "DANDENONG NORTH",
+    "unit_price_2023": 529500
+  },
+  {
+    "suburb": "DARLEY",
+    "unit_price_2023": 406500
+  },
+  {
+    "suburb": "DAYLESFORD",
+    "unit_price_2023": 585000
+  },
+  {
+    "suburb": "DEANSIDE",
+    "unit_price_2023": 558000
+  },
+  {
+    "suburb": "DEEPDENE",
+    "unit_price_2023": 1160500
+  },
+  {
+    "suburb": "DEER PARK",
+    "unit_price_2023": 486000
+  },
+  {
+    "suburb": "DELAHEY",
+    "unit_price_2023": 465000
+  },
+  {
+    "suburb": "DIAMOND CREEK",
+    "unit_price_2023": 790000
+  },
+  {
+    "suburb": "DINGLEY VILLAGE",
+    "unit_price_2023": 740000
+  },
+  {
+    "suburb": "DONCASTER",
+    "unit_price_2023": 650500
+  },
+  {
+    "suburb": "DONCASTER EAST",
+    "unit_price_2023": 880000
+  },
+  {
+    "suburb": "DONVALE",
+    "unit_price_2023": 965000
+  },
+  {
+    "suburb": "DOREEN",
+    "unit_price_2023": 539000
+  },
+  {
+    "suburb": "DOVETON",
+    "unit_price_2023": 520000
+  },
+  {
+    "suburb": "DROMANA",
+    "unit_price_2023": 790000
+  },
+  {
+    "suburb": "DROUIN",
+    "unit_price_2023": 445500
+  },
+  {
+    "suburb": "DRYSDALE",
+    "unit_price_2023": 517500
+  },
+  {
+    "suburb": "EAGLEHAWK",
+    "unit_price_2023": 413500
+  },
+  {
+    "suburb": "EAGLEMONT",
+    "unit_price_2023": 1317500
+  },
+  {
+    "suburb": "EAST BENDIGO",
+    "unit_price_2023": 420000
+  },
+  {
+    "suburb": "EAST GEELONG",
+    "unit_price_2023": 440000
+  },
+  {
+    "suburb": "EAST MELBOURNE",
+    "unit_price_2023": 657500
+  },
+  {
+    "suburb": "ECHUCA",
+    "unit_price_2023": 371000
+  },
+  {
+    "suburb": "EDITHVALE",
+    "unit_price_2023": 865000
+  },
+  {
+    "suburb": "ELSTERNWICK",
+    "unit_price_2023": 641000
+  },
+  {
+    "suburb": "ELTHAM",
+    "unit_price_2023": 725000
+  },
+  {
+    "suburb": "ELTHAM NORTH",
+    "unit_price_2023": 865000
+  },
+  {
+    "suburb": "ELWOOD",
+    "unit_price_2023": 673000
+  },
+  {
+    "suburb": "ENDEAVOUR HILLS",
+    "unit_price_2023": 637500
+  },
+  {
+    "suburb": "EPPING",
+    "unit_price_2023": 480000
+  },
+  {
+    "suburb": "EPSOM",
+    "unit_price_2023": 441500
+  },
+  {
+    "suburb": "ESSENDON",
+    "unit_price_2023": 535000
+  },
+  {
+    "suburb": "ESSENDON NORTH",
+    "unit_price_2023": 400000
+  },
+  {
+    "suburb": "EUMEMMERRING",
+    "unit_price_2023": 517000
+  },
+  {
+    "suburb": "FAIRFIELD",
+    "unit_price_2023": 565000
+  },
+  {
+    "suburb": "FAWKNER",
+    "unit_price_2023": 592500
+  },
+  {
+    "suburb": "FERNTREE GULLY",
+    "unit_price_2023": 680000
+  },
+  {
+    "suburb": "FITZROY",
+    "unit_price_2023": 825000
+  },
+  {
+    "suburb": "FITZROY NORTH",
+    "unit_price_2023": 680000
+  },
+  {
+    "suburb": "FLEMINGTON",
+    "unit_price_2023": 385000
+  },
+  {
+    "suburb": "FLORA HILL",
+    "unit_price_2023": 425000
+  },
+  {
+    "suburb": "FOOTSCRAY",
+    "unit_price_2023": 529000
+  },
+  {
+    "suburb": "FOREST HILL",
+    "unit_price_2023": 830000
+  },
+  {
+    "suburb": "FOSTER",
+    "unit_price_2023": 395000
+  },
+  {
+    "suburb": "FRANKSTON",
+    "unit_price_2023": 505000
+  },
+  {
+    "suburb": "FRANKSTON NORTH",
+    "unit_price_2023": 521500
+  },
+  {
+    "suburb": "FRANKSTON SOUTH",
+    "unit_price_2023": 746500
+  },
+  {
+    "suburb": "GARDENVALE",
+    "unit_price_2023": 431000
+  },
+  {
+    "suburb": "GARFIELD",
+    "unit_price_2023": 545000
+  },
+  {
+    "suburb": "GEELONG",
+    "unit_price_2023": 741000
+  },
+  {
+    "suburb": "GEELONG WEST",
+    "unit_price_2023": 573000
+  },
+  {
+    "suburb": "GISBORNE",
+    "unit_price_2023": 555000
+  },
+  {
+    "suburb": "GLEN HUNTLY",
+    "unit_price_2023": 608500
+  },
+  {
+    "suburb": "GLEN IRIS",
+    "unit_price_2023": 790000
+  },
+  {
+    "suburb": "GLEN WAVERLEY",
+    "unit_price_2023": 800000
+  },
+  {
+    "suburb": "GLENROY",
+    "unit_price_2023": 578000
+  },
+  {
+    "suburb": "GOLDEN SQUARE",
+    "unit_price_2023": 400000
+  },
+  {
+    "suburb": "GOWANBRAE",
+    "unit_price_2023": 725000
+  },
+  {
+    "suburb": "GREENSBOROUGH",
+    "unit_price_2023": 730000
+  },
+  {
+    "suburb": "GREENVALE",
+    "unit_price_2023": 592500
+  },
+  {
+    "suburb": "GROVEDALE",
+    "unit_price_2023": 496500
+  },
+  {
+    "suburb": "HADFIELD",
+    "unit_price_2023": 615000
+  },
+  {
+    "suburb": "HALLAM",
+    "unit_price_2023": 565000
+  },
+  {
+    "suburb": "HAMILTON",
+    "unit_price_2023": 348000
+  },
+  {
+    "suburb": "HAMLYN HEIGHTS",
+    "unit_price_2023": 512500
+  },
+  {
+    "suburb": "HAMPTON",
+    "unit_price_2023": 973000
+  },
+  {
+    "suburb": "HAMPTON EAST",
+    "unit_price_2023": 853500
+  },
+  {
+    "suburb": "HAMPTON PARK",
+    "unit_price_2023": 520000
+  },
+  {
+    "suburb": "HARKNESS",
+    "unit_price_2023": 435000
+  },
+  {
+    "suburb": "HASTINGS",
+    "unit_price_2023": 561000
+  },
+  {
+    "suburb": "HAWTHORN",
+    "unit_price_2023": 588000
+  },
+  {
+    "suburb": "HAWTHORN EAST",
+    "unit_price_2023": 636500
+  },
+  {
+    "suburb": "HEALESVILLE",
+    "unit_price_2023": 637500
+  },
+  {
+    "suburb": "HEATHCOTE",
+    "unit_price_2023": 325000
+  },
+  {
+    "suburb": "HEATHERTON",
+    "unit_price_2023": 407000
+  },
+  {
+    "suburb": "HEATHMONT",
+    "unit_price_2023": 812000
+  },
+  {
+    "suburb": "HEIDELBERG",
+    "unit_price_2023": 712500
+  },
+  {
+    "suburb": "HEIDELBERG HEIGHTS",
+    "unit_price_2023": 742500
+  },
+  {
+    "suburb": "HEIDELBERG WEST",
+    "unit_price_2023": 685000
+  },
+  {
+    "suburb": "HERNE HILL",
+    "unit_price_2023": 404500
+  },
+  {
+    "suburb": "HIGHETT",
+    "unit_price_2023": 680000
+  },
+  {
+    "suburb": "HIGHTON",
+    "unit_price_2023": 523500
+  },
+  {
+    "suburb": "HOPPERS CROSSING",
+    "unit_price_2023": 450000
+  },
+  {
+    "suburb": "HORSHAM",
+    "unit_price_2023": 330000
+  },
+  {
+    "suburb": "HUGHESDALE",
+    "unit_price_2023": 795000
+  },
+  {
+    "suburb": "HUNTINGDALE",
+    "unit_price_2023": 552500
+  },
+  {
+    "suburb": "INVERLOCH",
+    "unit_price_2023": 835000
+  },
+  {
+    "suburb": "IRYMPLE",
+    "unit_price_2023": 299000
+  },
+  {
+    "suburb": "IVANHOE",
+    "unit_price_2023": 740000
+  },
+  {
+    "suburb": "IVANHOE EAST",
+    "unit_price_2023": 1240000
+  },
+  {
+    "suburb": "JACANA",
+    "unit_price_2023": 465000
+  },
+  {
+    "suburb": "JUNCTION VILLAGE",
+    "unit_price_2023": 370000
+  },
+  {
+    "suburb": "KANGAROO FLAT",
+    "unit_price_2023": 432500
+  },
+  {
+    "suburb": "KEILOR",
+    "unit_price_2023": 645000
+  },
+  {
+    "suburb": "KEILOR DOWNS",
+    "unit_price_2023": 570500
+  },
+  {
+    "suburb": "KEILOR EAST",
+    "unit_price_2023": 756000
+  },
+  {
+    "suburb": "KENNINGTON",
+    "unit_price_2023": 425000
+  },
+  {
+    "suburb": "KENSINGTON",
+    "unit_price_2023": 492500
+  },
+  {
+    "suburb": "KERANG",
+    "unit_price_2023": 188000
+  },
+  {
+    "suburb": "KEW",
+    "unit_price_2023": 828500
+  },
+  {
+    "suburb": "KEW EAST",
+    "unit_price_2023": 1220000
+  },
+  {
+    "suburb": "KEYSBOROUGH",
+    "unit_price_2023": 650000
+  },
+  {
+    "suburb": "KILMORE",
+    "unit_price_2023": 400000
+  },
+  {
+    "suburb": "KILSYTH",
+    "unit_price_2023": 685500
+  },
+  {
+    "suburb": "KINGS PARK",
+    "unit_price_2023": 460000
+  },
+  {
+    "suburb": "KINGSBURY",
+    "unit_price_2023": 502500
+  },
+  {
+    "suburb": "KINGSVILLE",
+    "unit_price_2023": 389000
+  },
+  {
+    "suburb": "KNOXFIELD",
+    "unit_price_2023": 770000
+  },
+  {
+    "suburb": "KOO WEE RUP",
+    "unit_price_2023": 470000
+  },
+  {
+    "suburb": "KORUMBURRA",
+    "unit_price_2023": 415000
+  },
+  {
+    "suburb": "KURUNJANG",
+    "unit_price_2023": 412500
+  },
+  {
+    "suburb": "KYABRAM",
+    "unit_price_2023": 367500
+  },
+  {
+    "suburb": "KYNETON",
+    "unit_price_2023": 620000
+  },
+  {
+    "suburb": "LAKE WENDOUREE",
+    "unit_price_2023": 525000
+  },
+  {
+    "suburb": "LAKES ENTRANCE",
+    "unit_price_2023": 692500
+  },
+  {
+    "suburb": "LALOR",
+    "unit_price_2023": 513500
+  },
+  {
+    "suburb": "LANGWARRIN",
+    "unit_price_2023": 600000
+  },
+  {
+    "suburb": "LARA",
+    "unit_price_2023": 485000
+  },
+  {
+    "suburb": "LAVERTON",
+    "unit_price_2023": 515000
+  },
+  {
+    "suburb": "LEONGATHA",
+    "unit_price_2023": 440000
+  },
+  {
+    "suburb": "LEOPOLD",
+    "unit_price_2023": 480000
+  },
+  {
+    "suburb": "LILYDALE",
+    "unit_price_2023": 612000
+  },
+  {
+    "suburb": "LONG GULLY",
+    "unit_price_2023": 340000
+  },
+  {
+    "suburb": "LONGWARRY",
+    "unit_price_2023": 462500
+  },
+  {
+    "suburb": "LORNE",
+    "unit_price_2023": 1297500
+  },
+  {
+    "suburb": "LOWER PLENTY",
+    "unit_price_2023": 610000
+  },
+  {
+    "suburb": "LYNBROOK",
+    "unit_price_2023": 602500
+  },
+  {
+    "suburb": "MACLEOD",
+    "unit_price_2023": 780500
+  },
+  {
+    "suburb": "MAIDSTONE",
+    "unit_price_2023": 609000
+  },
+  {
+    "suburb": "MALVERN",
+    "unit_price_2023": 774500
+  },
+  {
+    "suburb": "MALVERN EAST",
+    "unit_price_2023": 616000
+  },
+  {
+    "suburb": "MANIFOLD HEIGHTS",
+    "unit_price_2023": 436500
+  },
+  {
+    "suburb": "MANSFIELD",
+    "unit_price_2023": 575000
+  },
+  {
+    "suburb": "MARIBYRNONG",
+    "unit_price_2023": 515000
+  },
+  {
+    "suburb": "MARSHALL",
+    "unit_price_2023": 495000
+  },
+  {
+    "suburb": "MARYBOROUGH",
+    "unit_price_2023": 320000
+  },
+  {
+    "suburb": "MCCRAE",
+    "unit_price_2023": 895000
+  },
+  {
+    "suburb": "MCKINNON",
+    "unit_price_2023": 855000
+  },
+  {
+    "suburb": "MEADOW HEIGHTS",
+    "unit_price_2023": 450000
+  },
+  {
+    "suburb": "MELTON",
+    "unit_price_2023": 370000
+  },
+  {
+    "suburb": "MELTON SOUTH",
+    "unit_price_2023": 365000
+  },
+  {
+    "suburb": "MELTON WEST",
+    "unit_price_2023": 396000
+  },
+  {
+    "suburb": "MENTONE",
+    "unit_price_2023": 685000
+  },
+  {
+    "suburb": "MERNDA",
+    "unit_price_2023": 475000
+  },
+  {
+    "suburb": "MICKLEHAM",
+    "unit_price_2023": 565000
+  },
+  {
+    "suburb": "MIDDLE PARK",
+    "unit_price_2023": 710000
+  },
+  {
+    "suburb": "MILDURA",
+    "unit_price_2023": 315000
+  },
+  {
+    "suburb": "MILL PARK",
+    "unit_price_2023": 492000
+  },
+  {
+    "suburb": "MITCHAM",
+    "unit_price_2023": 820000
+  },
+  {
+    "suburb": "MOE",
+    "unit_price_2023": 240000
+  },
+  {
+    "suburb": "MONT ALBERT",
+    "unit_price_2023": 770000
+  },
+  {
+    "suburb": "MONT ALBERT NORTH",
+    "unit_price_2023": 1300000
+  },
+  {
+    "suburb": "MONTMORENCY",
+    "unit_price_2023": 813000
+  },
+  {
+    "suburb": "MOONEE PONDS",
+    "unit_price_2023": 500000
+  },
+  {
+    "suburb": "MOORABBIN",
+    "unit_price_2023": 660000
+  },
+  {
+    "suburb": "MOOROOLBARK",
+    "unit_price_2023": 655000
+  },
+  {
+    "suburb": "MOOROOPNA",
+    "unit_price_2023": 295000
+  },
+  {
+    "suburb": "MORDIALLOC",
+    "unit_price_2023": 710000
+  },
+  {
+    "suburb": "MORNINGTON",
+    "unit_price_2023": 810000
+  },
+  {
+    "suburb": "MORWELL",
+    "unit_price_2023": 250000
+  },
+  {
+    "suburb": "MOUNT CLEAR",
+    "unit_price_2023": 399000
+  },
+  {
+    "suburb": "MOUNT ELIZA",
+    "unit_price_2023": 750000
+  },
+  {
+    "suburb": "MOUNT EVELYN",
+    "unit_price_2023": 631000
+  },
+  {
+    "suburb": "MOUNT MARTHA",
+    "unit_price_2023": 779500
+  },
+  {
+    "suburb": "MOUNT PLEASANT",
+    "unit_price_2023": 422500
+  },
+  {
+    "suburb": "MOUNT WAVERLEY",
+    "unit_price_2023": 1051000
+  },
+  {
+    "suburb": "MULGRAVE",
+    "unit_price_2023": 750000
+  },
+  {
+    "suburb": "MURRUMBEENA",
+    "unit_price_2023": 587500
+  },
+  {
+    "suburb": "NARRE WARREN",
+    "unit_price_2023": 550000
+  },
+  {
+    "suburb": "NARRE WARREN SOUTH",
+    "unit_price_2023": 640000
+  },
+  {
+    "suburb": "NEWCOMB",
+    "unit_price_2023": 480000
+  },
+  {
+    "suburb": "NEWPORT",
+    "unit_price_2023": 795500
+  },
+  {
+    "suburb": "NIDDRIE",
+    "unit_price_2023": 685500
+  },
+  {
+    "suburb": "NOBLE PARK",
+    "unit_price_2023": 538000
+  },
+  {
+    "suburb": "NOBLE PARK NORTH",
+    "unit_price_2023": 552500
+  },
+  {
+    "suburb": "NORLANE",
+    "unit_price_2023": 410000
+  },
+  {
+    "suburb": "NORTH BENDIGO",
+    "unit_price_2023": 395000
+  },
+  {
+    "suburb": "NORTH GEELONG",
+    "unit_price_2023": 338500
+  },
+  {
+    "suburb": "NORTH MELBOURNE",
+    "unit_price_2023": 550000
+  },
+  {
+    "suburb": "NORTHCOTE",
+    "unit_price_2023": 625000
+  },
+  {
+    "suburb": "NOTTING HILL",
+    "unit_price_2023": 400000
+  },
+  {
+    "suburb": "NUMURKAH",
+    "unit_price_2023": 275000
+  },
+  {
+    "suburb": "NUNAWADING",
+    "unit_price_2023": 735000
+  },
+  {
+    "suburb": "OAK PARK",
+    "unit_price_2023": 611000
+  },
+  {
+    "suburb": "OAKLEIGH",
+    "unit_price_2023": 590000
+  },
+  {
+    "suburb": "OAKLEIGH EAST",
+    "unit_price_2023": 939000
+  },
+  {
+    "suburb": "OAKLEIGH SOUTH",
+    "unit_price_2023": 860000
+  },
+  {
+    "suburb": "OCEAN GROVE",
+    "unit_price_2023": 885000
+  },
+  {
+    "suburb": "OFFICER",
+    "unit_price_2023": 547500
+  },
+  {
+    "suburb": "ORMOND",
+    "unit_price_2023": 596000
+  },
+  {
+    "suburb": "PAKENHAM",
+    "unit_price_2023": 478500
+  },
+  {
+    "suburb": "PARKDALE",
+    "unit_price_2023": 756500
+  },
+  {
+    "suburb": "PARKVILLE",
+    "unit_price_2023": 525000
+  },
+  {
+    "suburb": "PASCOE VALE",
+    "unit_price_2023": 623000
+  },
+  {
+    "suburb": "PASCOE VALE SOUTH",
+    "unit_price_2023": 592500
+  },
+  {
+    "suburb": "PATTERSON LAKES",
+    "unit_price_2023": 715000
+  },
+  {
+    "suburb": "PAYNESVILLE",
+    "unit_price_2023": 398000
+  },
+  {
+    "suburb": "POINT COOK",
+    "unit_price_2023": 560000
+  },
+  {
+    "suburb": "PORT MELBOURNE",
+    "unit_price_2023": 743500
+  },
+  {
+    "suburb": "PORTARLINGTON",
+    "unit_price_2023": 639000
+  },
+  {
+    "suburb": "PORTLAND",
+    "unit_price_2023": 359000
+  },
+  {
+    "suburb": "PRAHRAN",
+    "unit_price_2023": 515000
+  },
+  {
+    "suburb": "PRESTON",
+    "unit_price_2023": 575500
+  },
+  {
+    "suburb": "QUARRY HILL",
+    "unit_price_2023": 395000
+  },
+  {
+    "suburb": "REDAN",
+    "unit_price_2023": 392500
+  },
+  {
+    "suburb": "RESERVOIR",
+    "unit_price_2023": 619500
+  },
+  {
+    "suburb": "RICHMOND",
+    "unit_price_2023": 595500
+  },
+  {
+    "suburb": "RIDDELLS CREEK",
+    "unit_price_2023": 600000
+  },
+  {
+    "suburb": "RINGWOOD",
+    "unit_price_2023": 620000
+  },
+  {
+    "suburb": "RINGWOOD EAST",
+    "unit_price_2023": 725000
+  },
+  {
+    "suburb": "RINGWOOD NORTH",
+    "unit_price_2023": 904000
+  },
+  {
+    "suburb": "RIPPLESIDE",
+    "unit_price_2023": 532000
+  },
+  {
+    "suburb": "RIPPONLEA",
+    "unit_price_2023": 594000
+  },
+  {
+    "suburb": "ROCKBANK",
+    "unit_price_2023": 550000
+  },
+  {
+    "suburb": "ROMSEY",
+    "unit_price_2023": 530000
+  },
+  {
+    "suburb": "ROSANNA",
+    "unit_price_2023": 862500
+  },
+  {
+    "suburb": "ROSEBUD",
+    "unit_price_2023": 670000
+  },
+  {
+    "suburb": "ROWVILLE",
+    "unit_price_2023": 725000
+  },
+  {
+    "suburb": "ROXBURGH PARK",
+    "unit_price_2023": 475000
+  },
+  {
+    "suburb": "RYE",
+    "unit_price_2023": 686500
+  },
+  {
+    "suburb": "SAFETY BEACH",
+    "unit_price_2023": 855000
+  },
+  {
+    "suburb": "SALE",
+    "unit_price_2023": 330000
+  },
+  {
+    "suburb": "SAN REMO",
+    "unit_price_2023": 550000
+  },
+  {
+    "suburb": "SANDRINGHAM",
+    "unit_price_2023": 835000
+  },
+  {
+    "suburb": "SCORESBY",
+    "unit_price_2023": 705000
+  },
+  {
+    "suburb": "SEAFORD",
+    "unit_price_2023": 630000
+  },
+  {
+    "suburb": "SEBASTOPOL",
+    "unit_price_2023": 350000
+  },
+  {
+    "suburb": "SEDDON",
+    "unit_price_2023": 425000
+  },
+  {
+    "suburb": "SEYMOUR",
+    "unit_price_2023": 334000
+  },
+  {
+    "suburb": "SHEPPARTON",
+    "unit_price_2023": 330000
+  },
+  {
+    "suburb": "SKYE",
+    "unit_price_2023": 544000
+  },
+  {
+    "suburb": "SOLDIERS HILL",
+    "unit_price_2023": 380000
+  },
+  {
+    "suburb": "SOMERVILLE",
+    "unit_price_2023": 585000
+  },
+  {
+    "suburb": "SOUTH KINGSVILLE",
+    "unit_price_2023": 780000
+  },
+  {
+    "suburb": "SOUTH MELBOURNE",
+    "unit_price_2023": 655000
+  },
+  {
+    "suburb": "SOUTH MORANG",
+    "unit_price_2023": 520000
+  },
+  {
+    "suburb": "SOUTH YARRA",
+    "unit_price_2023": 600000
+  },
+  {
+    "suburb": "SPOTSWOOD",
+    "unit_price_2023": 774000
+  },
+  {
+    "suburb": "SPRING GULLY",
+    "unit_price_2023": 387500
+  },
+  {
+    "suburb": "SPRINGVALE",
+    "unit_price_2023": 586500
+  },
+  {
+    "suburb": "SPRINGVALE SOUTH",
+    "unit_price_2023": 630000
+  },
+  {
+    "suburb": "ST ALBANS",
+    "unit_price_2023": 484000
+  },
+  {
+    "suburb": "ST ALBANS PARK",
+    "unit_price_2023": 385000
+  },
+  {
+    "suburb": "ST KILDA",
+    "unit_price_2023": 534500
+  },
+  {
+    "suburb": "ST KILDA EAST",
+    "unit_price_2023": 599500
+  },
+  {
+    "suburb": "ST KILDA WEST",
+    "unit_price_2023": 495000
+  },
+  {
+    "suburb": "ST LEONARDS",
+    "unit_price_2023": 715000
+  },
+  {
+    "suburb": "STAWELL",
+    "unit_price_2023": 220000
+  },
+  {
+    "suburb": "STRATHDALE",
+    "unit_price_2023": 470500
+  },
+  {
+    "suburb": "STRATHMORE",
+    "unit_price_2023": 792000
+  },
+  {
+    "suburb": "SUNBURY",
+    "unit_price_2023": 471500
+  },
+  {
+    "suburb": "SUNSHINE",
+    "unit_price_2023": 631000
+  },
+  {
+    "suburb": "SUNSHINE NORTH",
+    "unit_price_2023": 605000
+  },
+  {
+    "suburb": "SUNSHINE WEST",
+    "unit_price_2023": 580000
+  },
+  {
+    "suburb": "SURREY HILLS",
+    "unit_price_2023": 906000
+  },
+  {
+    "suburb": "SWAN HILL",
+    "unit_price_2023": 340000
+  },
+  {
+    "suburb": "SYDENHAM",
+    "unit_price_2023": 470000
+  },
+  {
+    "suburb": "TARNEIT",
+    "unit_price_2023": 485000
+  },
+  {
+    "suburb": "TATURA",
+    "unit_price_2023": 367000
+  },
+  {
+    "suburb": "TAYLORS HILL",
+    "unit_price_2023": 525000
+  },
+  {
+    "suburb": "TAYLORS LAKES",
+    "unit_price_2023": 515000
+  },
+  {
+    "suburb": "TEMPLESTOWE",
+    "unit_price_2023": 836500
+  },
+  {
+    "suburb": "TEMPLESTOWE LOWER",
+    "unit_price_2023": 1050000
+  },
+  {
+    "suburb": "THOMASTOWN",
+    "unit_price_2023": 475000
+  },
+  {
+    "suburb": "THORNBURY",
+    "unit_price_2023": 628000
+  },
+  {
+    "suburb": "TOORAK",
+    "unit_price_2023": 1200000
+  },
+  {
+    "suburb": "TORQUAY",
+    "unit_price_2023": 895000
+  },
+  {
+    "suburb": "TRAFALGAR",
+    "unit_price_2023": 455000
+  },
+  {
+    "suburb": "TRARALGON",
+    "unit_price_2023": 330000
+  },
+  {
+    "suburb": "TRUGANINA",
+    "unit_price_2023": 485000
+  },
+  {
+    "suburb": "TULLAMARINE",
+    "unit_price_2023": 530000
+  },
+  {
+    "suburb": "TYABB",
+    "unit_price_2023": 677500
+  },
+  {
+    "suburb": "VERMONT",
+    "unit_price_2023": 989000
+  },
+  {
+    "suburb": "VERMONT SOUTH",
+    "unit_price_2023": 728000
+  },
+  {
+    "suburb": "VIEWBANK",
+    "unit_price_2023": 740000
+  },
+  {
+    "suburb": "WALLAN",
+    "unit_price_2023": 445000
+  },
+  {
+    "suburb": "WANGARATTA",
+    "unit_price_2023": 365000
+  },
+  {
+    "suburb": "WANTIRNA",
+    "unit_price_2023": 715000
+  },
+  {
+    "suburb": "WANTIRNA SOUTH",
+    "unit_price_2023": 475500
+  },
+  {
+    "suburb": "WARRAGUL",
+    "unit_price_2023": 425000
+  },
+  {
+    "suburb": "WARRNAMBOOL",
+    "unit_price_2023": 420500
+  },
+  {
+    "suburb": "WATSONIA",
+    "unit_price_2023": 730000
+  },
+  {
+    "suburb": "WENDOUREE",
+    "unit_price_2023": 385000
+  },
+  {
+    "suburb": "WERRIBEE",
+    "unit_price_2023": 423000
+  },
+  {
+    "suburb": "WERRIBEE SOUTH",
+    "unit_price_2023": 460000
+  },
+  {
+    "suburb": "WEST FOOTSCRAY",
+    "unit_price_2023": 516500
+  },
+  {
+    "suburb": "WEST MELBOURNE",
+    "unit_price_2023": 623500
+  },
+  {
+    "suburb": "WEST WODONGA",
+    "unit_price_2023": 360000
+  },
+  {
+    "suburb": "WESTMEADOWS",
+    "unit_price_2023": 555500
+  },
+  {
+    "suburb": "WHEELERS HILL",
+    "unit_price_2023": 982000
+  },
+  {
+    "suburb": "WHITE HILLS",
+    "unit_price_2023": 415000
+  },
+  {
+    "suburb": "WHITTINGTON",
+    "unit_price_2023": 397000
+  },
+  {
+    "suburb": "WHITTLESEA",
+    "unit_price_2023": 482500
+  },
+  {
+    "suburb": "WILLIAMS LANDING",
+    "unit_price_2023": 417500
+  },
+  {
+    "suburb": "WILLIAMSTOWN",
+    "unit_price_2023": 748000
+  },
+  {
+    "suburb": "WILLIAMSTOWN NORTH",
+    "unit_price_2023": 780000
+  },
+  {
+    "suburb": "WINDSOR",
+    "unit_price_2023": 550000
+  },
+  {
+    "suburb": "WODONGA",
+    "unit_price_2023": 351000
+  },
+  {
+    "suburb": "WOLLERT",
+    "unit_price_2023": 435000
+  },
+  {
+    "suburb": "WONTHAGGI",
+    "unit_price_2023": 425000
+  },
+  {
+    "suburb": "WOODEND",
+    "unit_price_2023": 695000
+  },
+  {
+    "suburb": "WYNDHAM VALE",
+    "unit_price_2023": 480000
+  },
+  {
+    "suburb": "YARRA JUNCTION",
+    "unit_price_2023": 610000
+  },
+  {
+    "suburb": "YARRAVILLE",
+    "unit_price_2023": 600000
+  },
+  {
+    "suburb": "YARRAWONGA",
+    "unit_price_2023": 467500
+  }
+]

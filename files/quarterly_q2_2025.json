@@ -1,0 +1,3014 @@
+{
+  "ABBOTSFORD": {
+    "price_q2_2025": 1295000,
+    "sales_q2_2025": 21
+  },
+  "ABERFELDIE": {
+    "price_q2_2025": 1900000,
+    "sales_q2_2025": 14
+  },
+  "AINTREE": {
+    "price_q2_2025": 750500,
+    "sales_q2_2025": 40
+  },
+  "AIREYS INLET": {
+    "price_q2_2025": 1247500,
+    "sales_q2_2025": 4
+  },
+  "AIRPORT WEST": {
+    "price_q2_2025": 915000,
+    "sales_q2_2025": 35
+  },
+  "ALBANVALE": {
+    "price_q2_2025": 650500,
+    "sales_q2_2025": 22
+  },
+  "ALBERT PARK": {
+    "price_q2_2025": 2085000,
+    "sales_q2_2025": 27
+  },
+  "ALBION": {
+    "price_q2_2025": 750000,
+    "sales_q2_2025": 17
+  },
+  "ALEXANDRA": {
+    "price_q2_2025": 535500,
+    "sales_q2_2025": 8
+  },
+  "ALFREDTON": {
+    "price_q2_2025": 605000,
+    "sales_q2_2025": 86
+  },
+  "ALLANSFORD": {
+    "price_q2_2025": 515000,
+    "sales_q2_2025": 3
+  },
+  "ALPHINGTON": {
+    "price_q2_2025": 2025000,
+    "sales_q2_2025": 14
+  },
+  "ALTONA": {
+    "price_q2_2025": 1168000,
+    "sales_q2_2025": 46
+  },
+  "ALTONA EAST": {
+    "price_q2_2025": 1076000,
+    "sales_q2_2025": 7
+  },
+  "ALTONA MEADOWS": {
+    "price_q2_2025": 730000,
+    "sales_q2_2025": 37
+  },
+  "ALTONA NORTH": {
+    "price_q2_2025": 895000,
+    "sales_q2_2025": 65
+  },
+  "ANGLESEA": {
+    "price_q2_2025": 1512500,
+    "sales_q2_2025": 20
+  },
+  "APOLLO BAY": {
+    "price_q2_2025": 777500,
+    "sales_q2_2025": 6
+  },
+  "ARARAT": {
+    "price_q2_2025": 341000,
+    "sales_q2_2025": 41
+  },
+  "ARDEER": {
+    "price_q2_2025": 741500,
+    "sales_q2_2025": 12
+  },
+  "ARMADALE": {
+    "price_q2_2025": 2055000,
+    "sales_q2_2025": 15
+  },
+  "ARMSTRONG CREEK": {
+    "price_q2_2025": 670000,
+    "sales_q2_2025": 121
+  },
+  "ASCOT (GREATER BENDIGO)": {
+    "price_q2_2025": 630000,
+    "sales_q2_2025": 11
+  },
+  "ASCOT VALE": {
+    "price_q2_2025": 1275000,
+    "sales_q2_2025": 37
+  },
+  "ASHBURTON": {
+    "price_q2_2025": 1905000,
+    "sales_q2_2025": 26
+  },
+  "ASHWOOD": {
+    "price_q2_2025": 1570000,
+    "sales_q2_2025": 21
+  },
+  "ASPENDALE": {
+    "price_q2_2025": 1342500,
+    "sales_q2_2025": 20
+  },
+  "ASPENDALE GARDENS": {
+    "price_q2_2025": 1265000,
+    "sales_q2_2025": 9
+  },
+  "ATTWOOD": {
+    "price_q2_2025": 739000,
+    "sales_q2_2025": 8
+  },
+  "AVENEL": {
+    "price_q2_2025": 1150000,
+    "sales_q2_2025": 2
+  },
+  "AVOCA": {
+    "price_q2_2025": 415000,
+    "sales_q2_2025": 11
+  },
+  "AVONDALE HEIGHTS": {
+    "price_q2_2025": 990000,
+    "sales_q2_2025": 53
+  },
+  "BACCHUS MARSH": {
+    "price_q2_2025": 617000,
+    "sales_q2_2025": 51
+  },
+  "BADGER CREEK": {
+    "price_q2_2025": 673000,
+    "sales_q2_2025": 2
+  },
+  "BAIRNSDALE": {
+    "price_q2_2025": 430000,
+    "sales_q2_2025": 59
+  },
+  "BALACLAVA": {
+    "price_q2_2025": 1150000,
+    "sales_q2_2025": 7
+  },
+  "BALCOMBE": {
+    "price_q2_2025": 1616500,
+    "sales_q2_2025": 18
+  },
+  "BALLAN": {
+    "price_q2_2025": 568500,
+    "sales_q2_2025": 16
+  },
+  "BALLARAT CENTRAL": {
+    "price_q2_2025": 575000,
+    "sales_q2_2025": 29
+  },
+  "BALLARAT EAST": {
+    "price_q2_2025": 510000,
+    "sales_q2_2025": 52
+  },
+  "BALLARAT NORTH": {
+    "price_q2_2025": 530000,
+    "sales_q2_2025": 25
+  },
+  "BALNARRING": {
+    "price_q2_2025": 1515000,
+    "sales_q2_2025": 12
+  },
+  "BALNARRING BEACH": {
+    "price_q2_2025": 1680000,
+    "sales_q2_2025": 1
+  },
+  "BALWYN": {
+    "price_q2_2025": 3128000,
+    "sales_q2_2025": 39
+  },
+  "BALWYN NORTH": {
+    "price_q2_2025": 2100000,
+    "sales_q2_2025": 64
+  },
+  "BANDIANA": {
+    "price_q2_2025": 620000,
+    "sales_q2_2025": 1
+  },
+  "BANNOCKBURN": {
+    "price_q2_2025": 707000,
+    "sales_q2_2025": 26
+  },
+  "BARANDUDA": {
+    "price_q2_2025": 625000,
+    "sales_q2_2025": 23
+  },
+  "BARWON HEADS": {
+    "price_q2_2025": 1455000,
+    "sales_q2_2025": 18
+  },
+  "BAXTER": {
+    "price_q2_2025": 740000,
+    "sales_q2_2025": 7
+  },
+  "BAYSWATER": {
+    "price_q2_2025": 891700,
+    "sales_q2_2025": 32
+  },
+  "BAYSWATER NORTH": {
+    "price_q2_2025": 920000,
+    "sales_q2_2025": 20
+  },
+  "BEACONSFIELD": {
+    "price_q2_2025": 960000,
+    "sales_q2_2025": 27
+  },
+  "BEACONSFIELD UPPER": {
+    "price_q2_2025": 1215600,
+    "sales_q2_2025": 5
+  },
+  "BEAUFORT": {
+    "price_q2_2025": 390000,
+    "sales_q2_2025": 5
+  },
+  "BEAUMARIS": {
+    "price_q2_2025": 2130000,
+    "sales_q2_2025": 38
+  },
+  "BEECHWORTH": {
+    "price_q2_2025": 890000,
+    "sales_q2_2025": 11
+  },
+  "BELGRAVE": {
+    "price_q2_2025": 760000,
+    "sales_q2_2025": 17
+  },
+  "BELGRAVE HEIGHTS": {
+    "price_q2_2025": 1129000,
+    "sales_q2_2025": 2
+  },
+  "BELL PARK": {
+    "price_q2_2025": 620000,
+    "sales_q2_2025": 16
+  },
+  "BELL POST HILL": {
+    "price_q2_2025": 661300,
+    "sales_q2_2025": 32
+  },
+  "BELLFIELD (BANYULE)": {
+    "price_q2_2025": 991000,
+    "sales_q2_2025": 11
+  },
+  "BELMONT": {
+    "price_q2_2025": 686000,
+    "sales_q2_2025": 69
+  },
+  "BENALLA": {
+    "price_q2_2025": 457500,
+    "sales_q2_2025": 61
+  },
+  "BENDIGO": {
+    "price_q2_2025": 640000,
+    "sales_q2_2025": 29
+  },
+  "BENTLEIGH": {
+    "price_q2_2025": 1750000,
+    "sales_q2_2025": 47
+  },
+  "BENTLEIGH EAST": {
+    "price_q2_2025": 1550000,
+    "sales_q2_2025": 91
+  },
+  "BERWICK": {
+    "price_q2_2025": 870000,
+    "sales_q2_2025": 222
+  },
+  "BEVERIDGE": {
+    "price_q2_2025": 650000,
+    "sales_q2_2025": 75
+  },
+  "BIRCHIP": {
+    "price_q2_2025": 242500,
+    "sales_q2_2025": 2
+  },
+  "BIRREGURRA": {
+    "price_q2_2025": 775500,
+    "sales_q2_2025": 4
+  },
+  "BITTERN": {
+    "price_q2_2025": 840000,
+    "sales_q2_2025": 6
+  },
+  "BLACK HILL": {
+    "price_q2_2025": 495000,
+    "sales_q2_2025": 6
+  },
+  "BLACK ROCK": {
+    "price_q2_2025": 2280000,
+    "sales_q2_2025": 15
+  },
+  "BLACKBURN": {
+    "price_q2_2025": 1673800,
+    "sales_q2_2025": 36
+  },
+  "BLACKBURN NORTH": {
+    "price_q2_2025": 1350000,
+    "sales_q2_2025": 25
+  },
+  "BLACKBURN SOUTH": {
+    "price_q2_2025": 1373000,
+    "sales_q2_2025": 35
+  },
+  "BLAIRGOWRIE": {
+    "price_q2_2025": 1632500,
+    "sales_q2_2025": 28
+  },
+  "BLIND BIGHT": {
+    "price_q2_2025": 722500,
+    "sales_q2_2025": 8
+  },
+  "BONBEACH": {
+    "price_q2_2025": 1107500,
+    "sales_q2_2025": 14
+  },
+  "BONNIE BROOK": {
+    "price_q2_2025": 655000,
+    "sales_q2_2025": 27
+  },
+  "BONSHAW": {
+    "price_q2_2025": 560000,
+    "sales_q2_2025": 26
+  },
+  "BOORT": {
+    "price_q2_2025": 300000,
+    "sales_q2_2025": 6
+  },
+  "BORONIA": {
+    "price_q2_2025": 860900,
+    "sales_q2_2025": 78
+  },
+  "BOTANIC RIDGE": {
+    "price_q2_2025": 852500,
+    "sales_q2_2025": 39
+  },
+  "BOX HILL": {
+    "price_q2_2025": 1698000,
+    "sales_q2_2025": 13
+  },
+  "BOX HILL NORTH": {
+    "price_q2_2025": 1429000,
+    "sales_q2_2025": 42
+  },
+  "BOX HILL SOUTH": {
+    "price_q2_2025": 1493000,
+    "sales_q2_2025": 37
+  },
+  "BRAYBROOK": {
+    "price_q2_2025": 743000,
+    "sales_q2_2025": 39
+  },
+  "BREAKWATER": {
+    "price_q2_2025": 602500,
+    "sales_q2_2025": 6
+  },
+  "BRIAR HILL": {
+    "price_q2_2025": 960000,
+    "sales_q2_2025": 12
+  },
+  "BRIGHT": {
+    "price_q2_2025": 1065000,
+    "sales_q2_2025": 10
+  },
+  "BRIGHTON": {
+    "price_q2_2025": 3550000,
+    "sales_q2_2025": 67
+  },
+  "BRIGHTON EAST": {
+    "price_q2_2025": 2050000,
+    "sales_q2_2025": 53
+  },
+  "BROADFORD": {
+    "price_q2_2025": 590000,
+    "sales_q2_2025": 22
+  },
+  "BROADMEADOWS": {
+    "price_q2_2025": 620000,
+    "sales_q2_2025": 47
+  },
+  "BROOKFIELD": {
+    "price_q2_2025": 590000,
+    "sales_q2_2025": 57
+  },
+  "BROOKLYN": {
+    "price_q2_2025": 715000,
+    "sales_q2_2025": 1
+  },
+  "BROWN HILL": {
+    "price_q2_2025": 656300,
+    "sales_q2_2025": 18
+  },
+  "BRUNSWICK": {
+    "price_q2_2025": 1280000,
+    "sales_q2_2025": 66
+  },
+  "BRUNSWICK EAST": {
+    "price_q2_2025": 1335000,
+    "sales_q2_2025": 34
+  },
+  "BRUNSWICK WEST": {
+    "price_q2_2025": 1332500,
+    "sales_q2_2025": 24
+  },
+  "BULLEEN": {
+    "price_q2_2025": 1380000,
+    "sales_q2_2025": 40
+  },
+  "BUNDOORA": {
+    "price_q2_2025": 866400,
+    "sales_q2_2025": 78
+  },
+  "BUNINYONG": {
+    "price_q2_2025": 730000,
+    "sales_q2_2025": 12
+  },
+  "BUNYIP": {
+    "price_q2_2025": 791500,
+    "sales_q2_2025": 9
+  },
+  "BURNSIDE": {
+    "price_q2_2025": 797500,
+    "sales_q2_2025": 18
+  },
+  "BURNSIDE HEIGHTS": {
+    "price_q2_2025": 780000,
+    "sales_q2_2025": 22
+  },
+  "BURWOOD": {
+    "price_q2_2025": 1581000,
+    "sales_q2_2025": 26
+  },
+  "BURWOOD EAST": {
+    "price_q2_2025": 1335000,
+    "sales_q2_2025": 31
+  },
+  "CAIRNLEA": {
+    "price_q2_2025": 835900,
+    "sales_q2_2025": 24
+  },
+  "CALIFORNIA GULLY": {
+    "price_q2_2025": 515000,
+    "sales_q2_2025": 24
+  },
+  "CAMBERWELL": {
+    "price_q2_2025": 2460000,
+    "sales_q2_2025": 47
+  },
+  "CAMPBELLFIELD": {
+    "price_q2_2025": 678500,
+    "sales_q2_2025": 17
+  },
+  "CAMPBELLS CREEK": {
+    "price_q2_2025": 730000,
+    "sales_q2_2025": 11
+  },
+  "CAMPERDOWN": {
+    "price_q2_2025": 435000,
+    "sales_q2_2025": 18
+  },
+  "CANADIAN": {
+    "price_q2_2025": 520000,
+    "sales_q2_2025": 27
+  },
+  "CANTERBURY": {
+    "price_q2_2025": 3544000,
+    "sales_q2_2025": 18
+  },
+  "CAPE PATERSON": {
+    "price_q2_2025": 745000,
+    "sales_q2_2025": 6
+  },
+  "CAPE SCHANCK": {
+    "price_q2_2025": 1370000,
+    "sales_q2_2025": 8
+  },
+  "CAPEL SOUND": {
+    "price_q2_2025": 780000,
+    "sales_q2_2025": 15
+  },
+  "CARDIGAN VILLAGE": {
+    "price_q2_2025": 484000,
+    "sales_q2_2025": 1
+  },
+  "CARISBROOK": {
+    "price_q2_2025": 417000,
+    "sales_q2_2025": 7
+  },
+  "CARLTON": {
+    "price_q2_2025": 1761500,
+    "sales_q2_2025": 12
+  },
+  "CARLTON NORTH": {
+    "price_q2_2025": 1826000,
+    "sales_q2_2025": 30
+  },
+  "CARNEGIE": {
+    "price_q2_2025": 1810000,
+    "sales_q2_2025": 29
+  },
+  "CAROLINE SPRINGS": {
+    "price_q2_2025": 750000,
+    "sales_q2_2025": 74
+  },
+  "CARRUM": {
+    "price_q2_2025": 1100500,
+    "sales_q2_2025": 14
+  },
+  "CARRUM DOWNS": {
+    "price_q2_2025": 775000,
+    "sales_q2_2025": 81
+  },
+  "CASTERTON": {
+    "price_q2_2025": 269000,
+    "sales_q2_2025": 6
+  },
+  "CASTLEMAINE": {
+    "price_q2_2025": 720000,
+    "sales_q2_2025": 27
+  },
+  "CAULFIELD": {
+    "price_q2_2025": 2685000,
+    "sales_q2_2025": 2
+  },
+  "CAULFIELD EAST": {
+    "price_q2_2025": 1819000,
+    "sales_q2_2025": 0
+  },
+  "CAULFIELD NORTH": {
+    "price_q2_2025": 2296500,
+    "sales_q2_2025": 26
+  },
+  "CAULFIELD SOUTH": {
+    "price_q2_2025": 2068500,
+    "sales_q2_2025": 30
+  },
+  "CHADSTONE": {
+    "price_q2_2025": 1200000,
+    "sales_q2_2025": 25
+  },
+  "CHARLEMONT": {
+    "price_q2_2025": 651000,
+    "sales_q2_2025": 41
+  },
+  "CHARLTON": {
+    "price_q2_2025": 250000,
+    "sales_q2_2025": 4
+  },
+  "CHELSEA": {
+    "price_q2_2025": 1137500,
+    "sales_q2_2025": 14
+  },
+  "CHELSEA HEIGHTS": {
+    "price_q2_2025": 1008500,
+    "sales_q2_2025": 17
+  },
+  "CHELTENHAM": {
+    "price_q2_2025": 1302500,
+    "sales_q2_2025": 46
+  },
+  "CHELTENHAM EAST": {
+    "price_q2_2025": 1130000,
+    "sales_q2_2025": 15
+  },
+  "CHELTENHAM NORTH": {
+    "price_q2_2025": 1042500,
+    "sales_q2_2025": 14
+  },
+  "CHEWTON": {
+    "price_q2_2025": 1075000,
+    "sales_q2_2025": 1
+  },
+  "CHILTERN": {
+    "price_q2_2025": 660000,
+    "sales_q2_2025": 1
+  },
+  "CHIRNSIDE PARK": {
+    "price_q2_2025": 940000,
+    "sales_q2_2025": 52
+  },
+  "CHUM CREEK": {
+    "price_q2_2025": 712500,
+    "sales_q2_2025": 2
+  },
+  "CHURCHILL": {
+    "price_q2_2025": 365000,
+    "sales_q2_2025": 30
+  },
+  "CLARINDA": {
+    "price_q2_2025": 1050000,
+    "sales_q2_2025": 11
+  },
+  "CLAYTON": {
+    "price_q2_2025": 1290000,
+    "sales_q2_2025": 19
+  },
+  "CLAYTON NORTH": {
+    "price_q2_2025": 1331000,
+    "sales_q2_2025": 1
+  },
+  "CLAYTON SOUTH": {
+    "price_q2_2025": 994900,
+    "sales_q2_2025": 18
+  },
+  "CLEMATIS": {
+    "price_q2_2025": 873500,
+    "sales_q2_2025": 3
+  },
+  "CLIFTON HILL": {
+    "price_q2_2025": 1735000,
+    "sales_q2_2025": 14
+  },
+  "CLIFTON SPRINGS": {
+    "price_q2_2025": 667500,
+    "sales_q2_2025": 46
+  },
+  "CLUNES": {
+    "price_q2_2025": 415000,
+    "sales_q2_2025": 5
+  },
+  "CLYDE": {
+    "price_q2_2025": 700000,
+    "sales_q2_2025": 131
+  },
+  "CLYDE NORTH": {
+    "price_q2_2025": 735500,
+    "sales_q2_2025": 292
+  },
+  "COBBLEBANK": {
+    "price_q2_2025": 602500,
+    "sales_q2_2025": 24
+  },
+  "COBDEN": {
+    "price_q2_2025": 410000,
+    "sales_q2_2025": 5
+  },
+  "COBRAM": {
+    "price_q2_2025": 445000,
+    "sales_q2_2025": 21
+  },
+  "COBURG": {
+    "price_q2_2025": 1210000,
+    "sales_q2_2025": 81
+  },
+  "COBURG EAST": {
+    "price_q2_2025": 1145000,
+    "sales_q2_2025": 18
+  },
+  "COBURG NORTH": {
+    "price_q2_2025": 1212000,
+    "sales_q2_2025": 21
+  },
+  "COCKATOO": {
+    "price_q2_2025": 685000,
+    "sales_q2_2025": 9
+  },
+  "COHUNA": {
+    "price_q2_2025": 320000,
+    "sales_q2_2025": 11
+  },
+  "COLAC": {
+    "price_q2_2025": 480000,
+    "sales_q2_2025": 39
+  },
+  "COLDSTREAM": {
+    "price_q2_2025": 840000,
+    "sales_q2_2025": 7
+  },
+  "COLERAINE": {
+    "price_q2_2025": 245000,
+    "sales_q2_2025": 9
+  },
+  "COLLINGWOOD": {
+    "price_q2_2025": 1403500,
+    "sales_q2_2025": 10
+  },
+  "CONNEWARRE": {
+    "price_q2_2025": 2200000,
+    "sales_q2_2025": 1
+  },
+  "COOLAROO": {
+    "price_q2_2025": 601300,
+    "sales_q2_2025": 12
+  },
+  "COONANS HILL": {
+    "price_q2_2025": 1125000,
+    "sales_q2_2025": 10
+  },
+  "CORINELLA": {
+    "price_q2_2025": 670000,
+    "sales_q2_2025": 18
+  },
+  "CORIO": {
+    "price_q2_2025": 513500,
+    "sales_q2_2025": 104
+  },
+  "CORONET BAY": {
+    "price_q2_2025": 505000,
+    "sales_q2_2025": 10
+  },
+  "CORRYONG": {
+    "price_q2_2025": 400000,
+    "sales_q2_2025": 6
+  },
+  "COWES": {
+    "price_q2_2025": 820000,
+    "sales_q2_2025": 8
+  },
+  "COWES WEST": {
+    "price_q2_2025": 692500,
+    "sales_q2_2025": 46
+  },
+  "CRAIGIEBURN": {
+    "price_q2_2025": 700000,
+    "sales_q2_2025": 299
+  },
+  "CRANBOURNE": {
+    "price_q2_2025": 713500,
+    "sales_q2_2025": 103
+  },
+  "CRANBOURNE EAST": {
+    "price_q2_2025": 730000,
+    "sales_q2_2025": 102
+  },
+  "CRANBOURNE NORTH": {
+    "price_q2_2025": 770500,
+    "sales_q2_2025": 91
+  },
+  "CRANBOURNE SOUTH": {
+    "price_q2_2025": 700000,
+    "sales_q2_2025": 27
+  },
+  "CRANBOURNE WEST": {
+    "price_q2_2025": 700000,
+    "sales_q2_2025": 96
+  },
+  "CREMORNE": {
+    "price_q2_2025": 1187500,
+    "sales_q2_2025": 6
+  },
+  "CRESWICK": {
+    "price_q2_2025": 550000,
+    "sales_q2_2025": 25
+  },
+  "CRIB POINT": {
+    "price_q2_2025": 835000,
+    "sales_q2_2025": 11
+  },
+  "CROYDON": {
+    "price_q2_2025": 882500,
+    "sales_q2_2025": 70
+  },
+  "CROYDON HILLS": {
+    "price_q2_2025": 1152000,
+    "sales_q2_2025": 17
+  },
+  "CROYDON NORTH": {
+    "price_q2_2025": 1110500,
+    "sales_q2_2025": 18
+  },
+  "CROYDON SOUTH": {
+    "price_q2_2025": 967500,
+    "sales_q2_2025": 14
+  },
+  "CURLEWIS": {
+    "price_q2_2025": 630000,
+    "sales_q2_2025": 23
+  },
+  "DALLAS": {
+    "price_q2_2025": 561000,
+    "sales_q2_2025": 22
+  },
+  "DALYSTON": {
+    "price_q2_2025": 500000,
+    "sales_q2_2025": 11
+  },
+  "DANDENONG": {
+    "price_q2_2025": 755000,
+    "sales_q2_2025": 45
+  },
+  "DANDENONG NORTH": {
+    "price_q2_2025": 790000,
+    "sales_q2_2025": 57
+  },
+  "DARLEY": {
+    "price_q2_2025": 580000,
+    "sales_q2_2025": 52
+  },
+  "DAYLESFORD": {
+    "price_q2_2025": 700000,
+    "sales_q2_2025": 11
+  },
+  "DEANSIDE": {
+    "price_q2_2025": 675000,
+    "sales_q2_2025": 69
+  },
+  "DEEPDENE": {
+    "price_q2_2025": 3450000,
+    "sales_q2_2025": 5
+  },
+  "DEER PARK": {
+    "price_q2_2025": 680000,
+    "sales_q2_2025": 51
+  },
+  "DELACOMBE": {
+    "price_q2_2025": 545000,
+    "sales_q2_2025": 16
+  },
+  "DELAHEY": {
+    "price_q2_2025": 689000,
+    "sales_q2_2025": 18
+  },
+  "DENNINGTON": {
+    "price_q2_2025": 610000,
+    "sales_q2_2025": 13
+  },
+  "DERRIMUT": {
+    "price_q2_2025": 807000,
+    "sales_q2_2025": 17
+  },
+  "DIAMOND CREEK": {
+    "price_q2_2025": 1020000,
+    "sales_q2_2025": 42
+  },
+  "DIGGERS REST": {
+    "price_q2_2025": 675000,
+    "sales_q2_2025": 55
+  },
+  "DIMBOOLA": {
+    "price_q2_2025": 252500,
+    "sales_q2_2025": 10
+  },
+  "DINGLEY VILLAGE": {
+    "price_q2_2025": 1194000,
+    "sales_q2_2025": 28
+  },
+  "DONALD": {
+    "price_q2_2025": 350000,
+    "sales_q2_2025": 7
+  },
+  "DONCASTER": {
+    "price_q2_2025": 1554000,
+    "sales_q2_2025": 58
+  },
+  "DONCASTER EAST": {
+    "price_q2_2025": 1552500,
+    "sales_q2_2025": 92
+  },
+  "DONNYBROOK": {
+    "price_q2_2025": 645000,
+    "sales_q2_2025": 125
+  },
+  "DONVALE": {
+    "price_q2_2025": 1525000,
+    "sales_q2_2025": 23
+  },
+  "DOREEN": {
+    "price_q2_2025": 753000,
+    "sales_q2_2025": 127
+  },
+  "DOVETON": {
+    "price_q2_2025": 630000,
+    "sales_q2_2025": 33
+  },
+  "DROMANA": {
+    "price_q2_2025": 1000000,
+    "sales_q2_2025": 37
+  },
+  "DROUIN": {
+    "price_q2_2025": 638300,
+    "sales_q2_2025": 92
+  },
+  "DRYSDALE": {
+    "price_q2_2025": 745000,
+    "sales_q2_2025": 13
+  },
+  "DUNKELD": {
+    "price_q2_2025": 417500,
+    "sales_q2_2025": 5
+  },
+  "EAGLE POINT": {
+    "price_q2_2025": 557500,
+    "sales_q2_2025": 4
+  },
+  "EAGLEHAWK": {
+    "price_q2_2025": 580000,
+    "sales_q2_2025": 23
+  },
+  "EAGLEMONT": {
+    "price_q2_2025": 2120500,
+    "sales_q2_2025": 12
+  },
+  "EAST BAIRNSDALE": {
+    "price_q2_2025": 362500,
+    "sales_q2_2025": 12
+  },
+  "EAST BENDIGO": {
+    "price_q2_2025": 510000,
+    "sales_q2_2025": 12
+  },
+  "EAST GEELONG": {
+    "price_q2_2025": 790000,
+    "sales_q2_2025": 15
+  },
+  "EAST MELBOURNE": {
+    "price_q2_2025": 2400000,
+    "sales_q2_2025": 6
+  },
+  "EAST WARBURTON": {
+    "price_q2_2025": 695000,
+    "sales_q2_2025": 6
+  },
+  "EASTWOOD": {
+    "price_q2_2025": 590000,
+    "sales_q2_2025": 13
+  },
+  "ECHUCA": {
+    "price_q2_2025": 631300,
+    "sales_q2_2025": 58
+  },
+  "EDENHOPE": {
+    "price_q2_2025": 240000,
+    "sales_q2_2025": 6
+  },
+  "EDITHVALE": {
+    "price_q2_2025": 1217500,
+    "sales_q2_2025": 12
+  },
+  "EILDON": {
+    "price_q2_2025": 322500,
+    "sales_q2_2025": 5
+  },
+  "ELLIMINYT": {
+    "price_q2_2025": 735000,
+    "sales_q2_2025": 11
+  },
+  "ELMORE": {
+    "price_q2_2025": 435000,
+    "sales_q2_2025": 3
+  },
+  "ELSTERNWICK": {
+    "price_q2_2025": 1902000,
+    "sales_q2_2025": 12
+  },
+  "ELTHAM": {
+    "price_q2_2025": 1263500,
+    "sales_q2_2025": 52
+  },
+  "ELTHAM NORTH": {
+    "price_q2_2025": 1331000,
+    "sales_q2_2025": 18
+  },
+  "ELWOOD": {
+    "price_q2_2025": 2305000,
+    "sales_q2_2025": 37
+  },
+  "EMERALD": {
+    "price_q2_2025": 922500,
+    "sales_q2_2025": 22
+  },
+  "ENDEAVOUR HILLS": {
+    "price_q2_2025": 795000,
+    "sales_q2_2025": 81
+  },
+  "EPPING": {
+    "price_q2_2025": 723000,
+    "sales_q2_2025": 122
+  },
+  "EPSOM": {
+    "price_q2_2025": 632500,
+    "sales_q2_2025": 36
+  },
+  "ESSENDON": {
+    "price_q2_2025": 1655000,
+    "sales_q2_2025": 56
+  },
+  "ESSENDON NORTH": {
+    "price_q2_2025": 981000,
+    "sales_q2_2025": 6
+  },
+  "ESSENDON WEST": {
+    "price_q2_2025": 1581300,
+    "sales_q2_2025": 6
+  },
+  "EUMEMMERRING": {
+    "price_q2_2025": 720000,
+    "sales_q2_2025": 7
+  },
+  "EUREKA": {
+    "price_q2_2025": 337000,
+    "sales_q2_2025": 1
+  },
+  "EUROA": {
+    "price_q2_2025": 465000,
+    "sales_q2_2025": 21
+  },
+  "EYNESBURY": {
+    "price_q2_2025": 704500,
+    "sales_q2_2025": 26
+  },
+  "FAIRFIELD": {
+    "price_q2_2025": 2050000,
+    "sales_q2_2025": 17
+  },
+  "FAIRHAVEN": {
+    "price_q2_2025": 1725000,
+    "sales_q2_2025": 1
+  },
+  "FAWKNER": {
+    "price_q2_2025": 801000,
+    "sales_q2_2025": 63
+  },
+  "FERNTREE GULLY": {
+    "price_q2_2025": 897100,
+    "sales_q2_2025": 88
+  },
+  "FERNY CREEK": {
+    "price_q2_2025": 1020000,
+    "sales_q2_2025": 7
+  },
+  "FINGAL": {
+    "price_q2_2025": 1870000,
+    "sales_q2_2025": 1
+  },
+  "FITZROY": {
+    "price_q2_2025": 1815000,
+    "sales_q2_2025": 15
+  },
+  "FITZROY NORTH": {
+    "price_q2_2025": 1790500,
+    "sales_q2_2025": 36
+  },
+  "FIVEWAYS": {
+    "price_q2_2025": 680000,
+    "sales_q2_2025": 3
+  },
+  "FLEMINGTON": {
+    "price_q2_2025": 1165500,
+    "sales_q2_2025": 12
+  },
+  "FLINDERS": {
+    "price_q2_2025": 1610000,
+    "sales_q2_2025": 7
+  },
+  "FLORA HILL": {
+    "price_q2_2025": 634000,
+    "sales_q2_2025": 20
+  },
+  "FOOTSCRAY": {
+    "price_q2_2025": 880000,
+    "sales_q2_2025": 51
+  },
+  "FOREST HILL": {
+    "price_q2_2025": 1180000,
+    "sales_q2_2025": 43
+  },
+  "FOSTER": {
+    "price_q2_2025": 620000,
+    "sales_q2_2025": 9
+  },
+  "FRANKSTON": {
+    "price_q2_2025": 810000,
+    "sales_q2_2025": 171
+  },
+  "FRANKSTON NORTH": {
+    "price_q2_2025": 670000,
+    "sales_q2_2025": 47
+  },
+  "FRANKSTON SOUTH": {
+    "price_q2_2025": 1190000,
+    "sales_q2_2025": 69
+  },
+  "FRASER RISE": {
+    "price_q2_2025": 695000,
+    "sales_q2_2025": 114
+  },
+  "FYANSFORD": {
+    "price_q2_2025": 955000,
+    "sales_q2_2025": 11
+  },
+  "GARDEN CITY": {
+    "price_q2_2025": 1875000,
+    "sales_q2_2025": 5
+  },
+  "GARDENVALE": {
+    "price_q2_2025": 1764000,
+    "sales_q2_2025": 2
+  },
+  "GARFIELD": {
+    "price_q2_2025": 847500,
+    "sales_q2_2025": 2
+  },
+  "GEELONG": {
+    "price_q2_2025": 865500,
+    "sales_q2_2025": 10
+  },
+  "GEELONG WEST": {
+    "price_q2_2025": 810000,
+    "sales_q2_2025": 33
+  },
+  "GEMBROOK": {
+    "price_q2_2025": 704300,
+    "sales_q2_2025": 4
+  },
+  "GISBORNE": {
+    "price_q2_2025": 927500,
+    "sales_q2_2025": 42
+  },
+  "GLADSTONE PARK": {
+    "price_q2_2025": 752000,
+    "sales_q2_2025": 39
+  },
+  "GLEN HUNTLY": {
+    "price_q2_2025": 1517500,
+    "sales_q2_2025": 4
+  },
+  "GLEN IRIS": {
+    "price_q2_2025": 2715000,
+    "sales_q2_2025": 46
+  },
+  "GLEN WAVERLEY": {
+    "price_q2_2025": 1710000,
+    "sales_q2_2025": 123
+  },
+  "GLENROWAN": {
+    "price_q2_2025": 680000,
+    "sales_q2_2025": 3
+  },
+  "GLENROY": {
+    "price_q2_2025": 825000,
+    "sales_q2_2025": 64
+  },
+  "GOLDEN BEACH": {
+    "price_q2_2025": 400000,
+    "sales_q2_2025": 3
+  },
+  "GOLDEN POINT (BALLARAT)": {
+    "price_q2_2025": 525000,
+    "sales_q2_2025": 15
+  },
+  "GOLDEN SQUARE": {
+    "price_q2_2025": 550000,
+    "sales_q2_2025": 65
+  },
+  "GOWANBRAE": {
+    "price_q2_2025": 880000,
+    "sales_q2_2025": 9
+  },
+  "GRANTVILLE": {
+    "price_q2_2025": 605000,
+    "sales_q2_2025": 6
+  },
+  "GREEN LAKE": {
+    "price_q2_2025": 442500,
+    "sales_q2_2025": 6
+  },
+  "GREENSBOROUGH": {
+    "price_q2_2025": 1028500,
+    "sales_q2_2025": 52
+  },
+  "GREENVALE": {
+    "price_q2_2025": 882500,
+    "sales_q2_2025": 106
+  },
+  "GROVEDALE": {
+    "price_q2_2025": 675000,
+    "sales_q2_2025": 68
+  },
+  "HADFIELD": {
+    "price_q2_2025": 816000,
+    "sales_q2_2025": 17
+  },
+  "HALLAM": {
+    "price_q2_2025": 740000,
+    "sales_q2_2025": 31
+  },
+  "HAMILTON": {
+    "price_q2_2025": 389000,
+    "sales_q2_2025": 53
+  },
+  "HAMLYN HEIGHTS": {
+    "price_q2_2025": 722500,
+    "sales_q2_2025": 26
+  },
+  "HAMPTON": {
+    "price_q2_2025": 2225000,
+    "sales_q2_2025": 35
+  },
+  "HAMPTON EAST": {
+    "price_q2_2025": 1605000,
+    "sales_q2_2025": 16
+  },
+  "HAMPTON PARK": {
+    "price_q2_2025": 675000,
+    "sales_q2_2025": 89
+  },
+  "HARCOURT": {
+    "price_q2_2025": 500000,
+    "sales_q2_2025": 5
+  },
+  "HARKNESS": {
+    "price_q2_2025": 590000,
+    "sales_q2_2025": 67
+  },
+  "HASTINGS": {
+    "price_q2_2025": 725000,
+    "sales_q2_2025": 35
+  },
+  "HASTINGS WEST": {
+    "price_q2_2025": 665000,
+    "sales_q2_2025": 13
+  },
+  "HAWTHORN": {
+    "price_q2_2025": 2692500,
+    "sales_q2_2025": 32
+  },
+  "HAWTHORN EAST": {
+    "price_q2_2025": 2500000,
+    "sales_q2_2025": 27
+  },
+  "HEALESVILLE": {
+    "price_q2_2025": 792500,
+    "sales_q2_2025": 22
+  },
+  "HEATHCOTE": {
+    "price_q2_2025": 460000,
+    "sales_q2_2025": 13
+  },
+  "HEATHERTON": {
+    "price_q2_2025": 1065000,
+    "sales_q2_2025": 6
+  },
+  "HEATHMONT": {
+    "price_q2_2025": 1065500,
+    "sales_q2_2025": 28
+  },
+  "HEIDELBERG": {
+    "price_q2_2025": 1440000,
+    "sales_q2_2025": 14
+  },
+  "HEIDELBERG HEIGHTS": {
+    "price_q2_2025": 891500,
+    "sales_q2_2025": 24
+  },
+  "HEIDELBERG WEST": {
+    "price_q2_2025": 750000,
+    "sales_q2_2025": 19
+  },
+  "HEPBURN": {
+    "price_q2_2025": 600000,
+    "sales_q2_2025": 3
+  },
+  "HEPBURN SPRINGS": {
+    "price_q2_2025": 756000,
+    "sales_q2_2025": 2
+  },
+  "HERNE HILL": {
+    "price_q2_2025": 705000,
+    "sales_q2_2025": 22
+  },
+  "HEYFIELD": {
+    "price_q2_2025": 396000,
+    "sales_q2_2025": 8
+  },
+  "HEYWOOD": {
+    "price_q2_2025": 353000,
+    "sales_q2_2025": 12
+  },
+  "HIGHETT": {
+    "price_q2_2025": 1555000,
+    "sales_q2_2025": 39
+  },
+  "HIGHTON": {
+    "price_q2_2025": 892500,
+    "sales_q2_2025": 84
+  },
+  "HILLSIDE (MELTON)": {
+    "price_q2_2025": 789300,
+    "sales_q2_2025": 52
+  },
+  "HOPETOUN": {
+    "price_q2_2025": 155000,
+    "sales_q2_2025": 3
+  },
+  "HOPPERS CROSSING": {
+    "price_q2_2025": 660000,
+    "sales_q2_2025": 195
+  },
+  "HORSHAM": {
+    "price_q2_2025": 379500,
+    "sales_q2_2025": 90
+  },
+  "HUGHESDALE": {
+    "price_q2_2025": 1500000,
+    "sales_q2_2025": 10
+  },
+  "HUNTINGDALE": {
+    "price_q2_2025": 1155500,
+    "sales_q2_2025": 9
+  },
+  "HUNTLY": {
+    "price_q2_2025": 567500,
+    "sales_q2_2025": 28
+  },
+  "HURSTBRIDGE": {
+    "price_q2_2025": 910000,
+    "sales_q2_2025": 16
+  },
+  "INDENTED HEAD": {
+    "price_q2_2025": 825000,
+    "sales_q2_2025": 7
+  },
+  "INGLEWOOD": {
+    "price_q2_2025": 422500,
+    "sales_q2_2025": 8
+  },
+  "INVERLOCH": {
+    "price_q2_2025": 792500,
+    "sales_q2_2025": 36
+  },
+  "INVERMAY PARK": {
+    "price_q2_2025": 700000,
+    "sales_q2_2025": 6
+  },
+  "IRONBARK": {
+    "price_q2_2025": 622500,
+    "sales_q2_2025": 6
+  },
+  "IRYMPLE": {
+    "price_q2_2025": 625000,
+    "sales_q2_2025": 25
+  },
+  "IVANHOE": {
+    "price_q2_2025": 2025000,
+    "sales_q2_2025": 23
+  },
+  "IVANHOE EAST": {
+    "price_q2_2025": 2732500,
+    "sales_q2_2025": 12
+  },
+  "JACANA": {
+    "price_q2_2025": 620000,
+    "sales_q2_2025": 7
+  },
+  "JACKASS FLAT": {
+    "price_q2_2025": 632300,
+    "sales_q2_2025": 16
+  },
+  "JAMIESON": {
+    "price_q2_2025": 525000,
+    "sales_q2_2025": 6
+  },
+  "JAN JUC": {
+    "price_q2_2025": 1295000,
+    "sales_q2_2025": 14
+  },
+  "JEERALANG NORTH": {
+    "price_q2_2025": 442500,
+    "sales_q2_2025": 10
+  },
+  "JEPARIT": {
+    "price_q2_2025": 149000,
+    "sales_q2_2025": 2
+  },
+  "JUNCTION VILLAGE": {
+    "price_q2_2025": 700000,
+    "sales_q2_2025": 15
+  },
+  "JUNORTOUN": {
+    "price_q2_2025": 967500,
+    "sales_q2_2025": 4
+  },
+  "KALIMNA": {
+    "price_q2_2025": 470000,
+    "sales_q2_2025": 11
+  },
+  "KALKALLO": {
+    "price_q2_2025": 637500,
+    "sales_q2_2025": 104
+  },
+  "KALLISTA": {
+    "price_q2_2025": 890000,
+    "sales_q2_2025": 5
+  },
+  "KALORAMA": {
+    "price_q2_2025": 1121500,
+    "sales_q2_2025": 4
+  },
+  "KANGAROO FLAT": {
+    "price_q2_2025": 555000,
+    "sales_q2_2025": 74
+  },
+  "KANGAROO GROUND SOUTH": {
+    "price_q2_2025": 1362500,
+    "sales_q2_2025": 5
+  },
+  "KANIVA": {
+    "price_q2_2025": 182000,
+    "sales_q2_2025": 11
+  },
+  "KEALBA": {
+    "price_q2_2025": 773000,
+    "sales_q2_2025": 14
+  },
+  "KEILOR": {
+    "price_q2_2025": 1090000,
+    "sales_q2_2025": 21
+  },
+  "KEILOR DOWNS": {
+    "price_q2_2025": 888800,
+    "sales_q2_2025": 28
+  },
+  "KEILOR EAST": {
+    "price_q2_2025": 1000000,
+    "sales_q2_2025": 57
+  },
+  "KEILOR LODGE": {
+    "price_q2_2025": 1097500,
+    "sales_q2_2025": 6
+  },
+  "KEILOR PARK": {
+    "price_q2_2025": 795000,
+    "sales_q2_2025": 11
+  },
+  "KENNINGTON": {
+    "price_q2_2025": 600000,
+    "sales_q2_2025": 33
+  },
+  "KENSINGTON": {
+    "price_q2_2025": 1138300,
+    "sales_q2_2025": 28
+  },
+  "KERANG": {
+    "price_q2_2025": 312500,
+    "sales_q2_2025": 24
+  },
+  "KEW": {
+    "price_q2_2025": 2810500,
+    "sales_q2_2025": 56
+  },
+  "KEW NORTH": {
+    "price_q2_2025": 2250000,
+    "sales_q2_2025": 12
+  },
+  "KEYSBOROUGH": {
+    "price_q2_2025": 980000,
+    "sales_q2_2025": 89
+  },
+  "KIALLA": {
+    "price_q2_2025": 677500,
+    "sales_q2_2025": 42
+  },
+  "KILLARA (WODONGA)": {
+    "price_q2_2025": 648900,
+    "sales_q2_2025": 6
+  },
+  "KILMORE": {
+    "price_q2_2025": 590000,
+    "sales_q2_2025": 31
+  },
+  "KILSYTH": {
+    "price_q2_2025": 837500,
+    "sales_q2_2025": 24
+  },
+  "KILSYTH SOUTH": {
+    "price_q2_2025": 994000,
+    "sales_q2_2025": 4
+  },
+  "KINGLAKE": {
+    "price_q2_2025": 780000,
+    "sales_q2_2025": 9
+  },
+  "KINGS PARK": {
+    "price_q2_2025": 652500,
+    "sales_q2_2025": 26
+  },
+  "KINGSBURY": {
+    "price_q2_2025": 845000,
+    "sales_q2_2025": 16
+  },
+  "KINGSVILLE": {
+    "price_q2_2025": 1200000,
+    "sales_q2_2025": 17
+  },
+  "KNOXFIELD": {
+    "price_q2_2025": 1170000,
+    "sales_q2_2025": 14
+  },
+  "KOO WEE RUP": {
+    "price_q2_2025": 695000,
+    "sales_q2_2025": 14
+  },
+  "KOONDROOK": {
+    "price_q2_2025": 350000,
+    "sales_q2_2025": 7
+  },
+  "KOROIT": {
+    "price_q2_2025": 595000,
+    "sales_q2_2025": 9
+  },
+  "KORUMBURRA": {
+    "price_q2_2025": 520000,
+    "sales_q2_2025": 21
+  },
+  "KURUNJANG": {
+    "price_q2_2025": 551000,
+    "sales_q2_2025": 51
+  },
+  "KYABRAM": {
+    "price_q2_2025": 495000,
+    "sales_q2_2025": 32
+  },
+  "KYNETON": {
+    "price_q2_2025": 797000,
+    "sales_q2_2025": 31
+  },
+  "LAKE BOGA": {
+    "price_q2_2025": 370000,
+    "sales_q2_2025": 3
+  },
+  "LAKE GARDENS": {
+    "price_q2_2025": 601500,
+    "sales_q2_2025": 8
+  },
+  "LAKE TYERS BEACH": {
+    "price_q2_2025": 602500,
+    "sales_q2_2025": 6
+  },
+  "LAKE WENDOUREE": {
+    "price_q2_2025": 795000,
+    "sales_q2_2025": 11
+  },
+  "LAKES ENTRANCE": {
+    "price_q2_2025": 520000,
+    "sales_q2_2025": 21
+  },
+  "LALOR": {
+    "price_q2_2025": 737500,
+    "sales_q2_2025": 78
+  },
+  "LANCEFIELD": {
+    "price_q2_2025": 740000,
+    "sales_q2_2025": 19
+  },
+  "LANG LANG": {
+    "price_q2_2025": 720000,
+    "sales_q2_2025": 25
+  },
+  "LANGWARRIN": {
+    "price_q2_2025": 872000,
+    "sales_q2_2025": 83
+  },
+  "LARA": {
+    "price_q2_2025": 687500,
+    "sales_q2_2025": 62
+  },
+  "LARA LAKE": {
+    "price_q2_2025": 688800,
+    "sales_q2_2025": 56
+  },
+  "LAUNCHING PLACE": {
+    "price_q2_2025": 706300,
+    "sales_q2_2025": 10
+  },
+  "LAVERTON": {
+    "price_q2_2025": 605000,
+    "sales_q2_2025": 45
+  },
+  "LAVERTON SOUTH": {
+    "price_q2_2025": 755000,
+    "sales_q2_2025": 44
+  },
+  "LENEVA": {
+    "price_q2_2025": 727500,
+    "sales_q2_2025": 8
+  },
+  "LEONGATHA": {
+    "price_q2_2025": 615000,
+    "sales_q2_2025": 22
+  },
+  "LEOPOLD": {
+    "price_q2_2025": 675000,
+    "sales_q2_2025": 60
+  },
+  "LILYDALE": {
+    "price_q2_2025": 957500,
+    "sales_q2_2025": 67
+  },
+  "LISMORE": {
+    "price_q2_2025": 210000,
+    "sales_q2_2025": 3
+  },
+  "LOCH SPORT": {
+    "price_q2_2025": 315000,
+    "sales_q2_2025": 18
+  },
+  "LOCKINGTON": {
+    "price_q2_2025": 362500,
+    "sales_q2_2025": 2
+  },
+  "LONG GULLY": {
+    "price_q2_2025": 480000,
+    "sales_q2_2025": 25
+  },
+  "LONGWARRY": {
+    "price_q2_2025": 585000,
+    "sales_q2_2025": 13
+  },
+  "LORNE": {
+    "price_q2_2025": 1695000,
+    "sales_q2_2025": 11
+  },
+  "LOVELY BANKS": {
+    "price_q2_2025": 698000,
+    "sales_q2_2025": 5
+  },
+  "LOWER PLENTY": {
+    "price_q2_2025": 1207500,
+    "sales_q2_2025": 3
+  },
+  "LUCAS": {
+    "price_q2_2025": 625000,
+    "sales_q2_2025": 55
+  },
+  "LUCKNOW": {
+    "price_q2_2025": 630000,
+    "sales_q2_2025": 5
+  },
+  "LYNBROOK": {
+    "price_q2_2025": 835000,
+    "sales_q2_2025": 19
+  },
+  "LYNDHURST": {
+    "price_q2_2025": 942500,
+    "sales_q2_2025": 22
+  },
+  "LYSTERFIELD": {
+    "price_q2_2025": 1275000,
+    "sales_q2_2025": 13
+  },
+  "MACARTHUR": {
+    "price_q2_2025": 475000,
+    "sales_q2_2025": 1
+  },
+  "MACEDON": {
+    "price_q2_2025": 700000,
+    "sales_q2_2025": 1
+  },
+  "MACLEOD": {
+    "price_q2_2025": 1122500,
+    "sales_q2_2025": 22
+  },
+  "MADDINGLEY": {
+    "price_q2_2025": 650000,
+    "sales_q2_2025": 32
+  },
+  "MAFFRA": {
+    "price_q2_2025": 412500,
+    "sales_q2_2025": 26
+  },
+  "MAIDEN GULLY": {
+    "price_q2_2025": 795000,
+    "sales_q2_2025": 17
+  },
+  "MAIDSTONE": {
+    "price_q2_2025": 929000,
+    "sales_q2_2025": 24
+  },
+  "MALDON": {
+    "price_q2_2025": 595000,
+    "sales_q2_2025": 3
+  },
+  "MALLACOOTA": {
+    "price_q2_2025": 613000,
+    "sales_q2_2025": 5
+  },
+  "MALMSBURY": {
+    "price_q2_2025": 705000,
+    "sales_q2_2025": 3
+  },
+  "MALVERN": {
+    "price_q2_2025": 2500000,
+    "sales_q2_2025": 23
+  },
+  "MALVERN EAST": {
+    "price_q2_2025": 2437500,
+    "sales_q2_2025": 54
+  },
+  "MAMBOURIN": {
+    "price_q2_2025": 607500,
+    "sales_q2_2025": 26
+  },
+  "MANIFOLD HEIGHTS": {
+    "price_q2_2025": 1200000,
+    "sales_q2_2025": 13
+  },
+  "MANOR LAKES": {
+    "price_q2_2025": 650000,
+    "sales_q2_2025": 87
+  },
+  "MANSFIELD": {
+    "price_q2_2025": 815000,
+    "sales_q2_2025": 18
+  },
+  "MARIBYRNONG": {
+    "price_q2_2025": 1255000,
+    "sales_q2_2025": 18
+  },
+  "MARONG": {
+    "price_q2_2025": 672500,
+    "sales_q2_2025": 10
+  },
+  "MARSHALL": {
+    "price_q2_2025": 660000,
+    "sales_q2_2025": 13
+  },
+  "MARYBOROUGH": {
+    "price_q2_2025": 379500,
+    "sales_q2_2025": 50
+  },
+  "MCCRAE": {
+    "price_q2_2025": 1455000,
+    "sales_q2_2025": 18
+  },
+  "MCKENZIE HILL": {
+    "price_q2_2025": 860000,
+    "sales_q2_2025": 5
+  },
+  "MCKINNON": {
+    "price_q2_2025": 1850000,
+    "sales_q2_2025": 17
+  },
+  "MEADOW HEIGHTS": {
+    "price_q2_2025": 670000,
+    "sales_q2_2025": 44
+  },
+  "MELTON": {
+    "price_q2_2025": 510000,
+    "sales_q2_2025": 57
+  },
+  "MELTON SOUTH": {
+    "price_q2_2025": 525500,
+    "sales_q2_2025": 84
+  },
+  "MELTON WEST": {
+    "price_q2_2025": 563500,
+    "sales_q2_2025": 54
+  },
+  "MENTONE": {
+    "price_q2_2025": 1487000,
+    "sales_q2_2025": 28
+  },
+  "MERBEIN": {
+    "price_q2_2025": 420000,
+    "sales_q2_2025": 25
+  },
+  "MERINDA PARK": {
+    "price_q2_2025": 650000,
+    "sales_q2_2025": 9
+  },
+  "MERNDA": {
+    "price_q2_2025": 725000,
+    "sales_q2_2025": 130
+  },
+  "METUNG": {
+    "price_q2_2025": 520000,
+    "sales_q2_2025": 8
+  },
+  "MICKLEHAM": {
+    "price_q2_2025": 700000,
+    "sales_q2_2025": 239
+  },
+  "MIDDLE PARK": {
+    "price_q2_2025": 2352500,
+    "sales_q2_2025": 22
+  },
+  "MILDURA": {
+    "price_q2_2025": 518500,
+    "sales_q2_2025": 211
+  },
+  "MILL PARK": {
+    "price_q2_2025": 830000,
+    "sales_q2_2025": 105
+  },
+  "MILLGROVE": {
+    "price_q2_2025": 620000,
+    "sales_q2_2025": 15
+  },
+  "MINERS REST": {
+    "price_q2_2025": 587500,
+    "sales_q2_2025": 20
+  },
+  "MINYIP": {
+    "price_q2_2025": 180000,
+    "sales_q2_2025": 3
+  },
+  "MIRBOO NORTH": {
+    "price_q2_2025": 495000,
+    "sales_q2_2025": 5
+  },
+  "MITCHAM": {
+    "price_q2_2025": 1235000,
+    "sales_q2_2025": 42
+  },
+  "MOE": {
+    "price_q2_2025": 433000,
+    "sales_q2_2025": 63
+  },
+  "MONBULK": {
+    "price_q2_2025": 795000,
+    "sales_q2_2025": 13
+  },
+  "MONT ALBERT": {
+    "price_q2_2025": 3210000,
+    "sales_q2_2025": 7
+  },
+  "MONT ALBERT NORTH": {
+    "price_q2_2025": 1405000,
+    "sales_q2_2025": 17
+  },
+  "MONTMORENCY": {
+    "price_q2_2025": 1150000,
+    "sales_q2_2025": 23
+  },
+  "MONTROSE": {
+    "price_q2_2025": 985000,
+    "sales_q2_2025": 23
+  },
+  "MOONEE PONDS": {
+    "price_q2_2025": 1500000,
+    "sales_q2_2025": 45
+  },
+  "MOORABBIN": {
+    "price_q2_2025": 1210500,
+    "sales_q2_2025": 18
+  },
+  "MOOROOLBARK": {
+    "price_q2_2025": 880000,
+    "sales_q2_2025": 73
+  },
+  "MOOROOPNA": {
+    "price_q2_2025": 432500,
+    "sales_q2_2025": 40
+  },
+  "MORDIALLOC": {
+    "price_q2_2025": 1387500,
+    "sales_q2_2025": 14
+  },
+  "MORNINGTON": {
+    "price_q2_2025": 925000,
+    "sales_q2_2025": 79
+  },
+  "MORTLAKE": {
+    "price_q2_2025": 220000,
+    "sales_q2_2025": 5
+  },
+  "MORWELL": {
+    "price_q2_2025": 355000,
+    "sales_q2_2025": 120
+  },
+  "MOUNT BEAUTY": {
+    "price_q2_2025": 480000,
+    "sales_q2_2025": 5
+  },
+  "MOUNT CLEAR": {
+    "price_q2_2025": 536000,
+    "sales_q2_2025": 23
+  },
+  "MOUNT COTTRELL": {
+    "price_q2_2025": 749000,
+    "sales_q2_2025": 5
+  },
+  "MOUNT DANDENONG": {
+    "price_q2_2025": 1100000,
+    "sales_q2_2025": 7
+  },
+  "MOUNT DUNEED": {
+    "price_q2_2025": 710000,
+    "sales_q2_2025": 60
+  },
+  "MOUNT ELIZA": {
+    "price_q2_2025": 1650000,
+    "sales_q2_2025": 55
+  },
+  "MOUNT EVELYN": {
+    "price_q2_2025": 850000,
+    "sales_q2_2025": 31
+  },
+  "MOUNT HELEN": {
+    "price_q2_2025": 597500,
+    "sales_q2_2025": 22
+  },
+  "MOUNT MARTHA": {
+    "price_q2_2025": 1710000,
+    "sales_q2_2025": 21
+  },
+  "MOUNT PLEASANT": {
+    "price_q2_2025": 500000,
+    "sales_q2_2025": 19
+  },
+  "MOUNT WAVERLEY": {
+    "price_q2_2025": 1640000,
+    "sales_q2_2025": 121
+  },
+  "MULGRAVE": {
+    "price_q2_2025": 1098500,
+    "sales_q2_2025": 82
+  },
+  "MURRUMBEENA": {
+    "price_q2_2025": 1950000,
+    "sales_q2_2025": 21
+  },
+  "MURTOA": {
+    "price_q2_2025": 175000,
+    "sales_q2_2025": 7
+  },
+  "MYRTLEFORD": {
+    "price_q2_2025": 750000,
+    "sales_q2_2025": 12
+  },
+  "NAGAMBIE": {
+    "price_q2_2025": 518000,
+    "sales_q2_2025": 9
+  },
+  "NAR NAR GOON NORTH": {
+    "price_q2_2025": 599000,
+    "sales_q2_2025": 2
+  },
+  "NARRE WARREN": {
+    "price_q2_2025": 790000,
+    "sales_q2_2025": 111
+  },
+  "NARRE WARREN NORTH": {
+    "price_q2_2025": 1700000,
+    "sales_q2_2025": 13
+  },
+  "NARRE WARREN SOUTH": {
+    "price_q2_2025": 820000,
+    "sales_q2_2025": 100
+  },
+  "NATHALIA": {
+    "price_q2_2025": 378500,
+    "sales_q2_2025": 8
+  },
+  "NEERIM SOUTH": {
+    "price_q2_2025": 640000,
+    "sales_q2_2025": 9
+  },
+  "NERRINA": {
+    "price_q2_2025": 803000,
+    "sales_q2_2025": 7
+  },
+  "NEW GISBORNE": {
+    "price_q2_2025": 915000,
+    "sales_q2_2025": 9
+  },
+  "NEWBOROUGH": {
+    "price_q2_2025": 475000,
+    "sales_q2_2025": 33
+  },
+  "NEWCOMB": {
+    "price_q2_2025": 567500,
+    "sales_q2_2025": 22
+  },
+  "NEWINGTON": {
+    "price_q2_2025": 640000,
+    "sales_q2_2025": 9
+  },
+  "NEWLANDS ARM": {
+    "price_q2_2025": 820000,
+    "sales_q2_2025": 2
+  },
+  "NEWPORT": {
+    "price_q2_2025": 1270000,
+    "sales_q2_2025": 61
+  },
+  "NEWTOWN (GREATER GEELONG)": {
+    "price_q2_2025": 900000,
+    "sales_q2_2025": 35
+  },
+  "NHILL": {
+    "price_q2_2025": 203000,
+    "sales_q2_2025": 14
+  },
+  "NICHOLS POINT": {
+    "price_q2_2025": 540000,
+    "sales_q2_2025": 0
+  },
+  "NIDDRIE": {
+    "price_q2_2025": 1375000,
+    "sales_q2_2025": 33
+  },
+  "NOBLE PARK": {
+    "price_q2_2025": 820000,
+    "sales_q2_2025": 47
+  },
+  "NOBLE PARK NORTH": {
+    "price_q2_2025": 806500,
+    "sales_q2_2025": 26
+  },
+  "NORLANE": {
+    "price_q2_2025": 466000,
+    "sales_q2_2025": 90
+  },
+  "NORTH BENDIGO": {
+    "price_q2_2025": 560000,
+    "sales_q2_2025": 29
+  },
+  "NORTH GEELONG": {
+    "price_q2_2025": 641000,
+    "sales_q2_2025": 20
+  },
+  "NORTH MELBOURNE": {
+    "price_q2_2025": 1326000,
+    "sales_q2_2025": 19
+  },
+  "NORTH SHORE": {
+    "price_q2_2025": 830000,
+    "sales_q2_2025": 5
+  },
+  "NORTH WONTHAGGI": {
+    "price_q2_2025": 614500,
+    "sales_q2_2025": 20
+  },
+  "NORTHCOTE": {
+    "price_q2_2025": 1724500,
+    "sales_q2_2025": 56
+  },
+  "NOTTING HILL": {
+    "price_q2_2025": 1175000,
+    "sales_q2_2025": 8
+  },
+  "NUMURKAH": {
+    "price_q2_2025": 380000,
+    "sales_q2_2025": 28
+  },
+  "NUNAWADING": {
+    "price_q2_2025": 1180000,
+    "sales_q2_2025": 27
+  },
+  "NYAH": {
+    "price_q2_2025": 290000,
+    "sales_q2_2025": 2
+  },
+  "NYAH WEST": {
+    "price_q2_2025": 70000,
+    "sales_q2_2025": 1
+  },
+  "OAK PARK": {
+    "price_q2_2025": 1170000,
+    "sales_q2_2025": 17
+  },
+  "OAKLEIGH": {
+    "price_q2_2025": 1351000,
+    "sales_q2_2025": 19
+  },
+  "OAKLEIGH EAST": {
+    "price_q2_2025": 1135000,
+    "sales_q2_2025": 8
+  },
+  "OAKLEIGH SOUTH": {
+    "price_q2_2025": 1245300,
+    "sales_q2_2025": 20
+  },
+  "OCEAN GROVE": {
+    "price_q2_2025": 960000,
+    "sales_q2_2025": 89
+  },
+  "OFFICER": {
+    "price_q2_2025": 750000,
+    "sales_q2_2025": 132
+  },
+  "OFFICER SOUTH": {
+    "price_q2_2025": 896000,
+    "sales_q2_2025": 12
+  },
+  "OLINDA": {
+    "price_q2_2025": 942500,
+    "sales_q2_2025": 12
+  },
+  "ORBOST": {
+    "price_q2_2025": 360000,
+    "sales_q2_2025": 15
+  },
+  "ORMOND": {
+    "price_q2_2025": 1575000,
+    "sales_q2_2025": 11
+  },
+  "OSBORNE": {
+    "price_q2_2025": 1011500,
+    "sales_q2_2025": 30
+  },
+  "OUYEN": {
+    "price_q2_2025": 200000,
+    "sales_q2_2025": 11
+  },
+  "PAKENHAM": {
+    "price_q2_2025": 690000,
+    "sales_q2_2025": 276
+  },
+  "PARADISE BEACH": {
+    "price_q2_2025": 335000,
+    "sales_q2_2025": 2
+  },
+  "PARK ORCHARDS": {
+    "price_q2_2025": 2039500,
+    "sales_q2_2025": 6
+  },
+  "PARKDALE": {
+    "price_q2_2025": 1588000,
+    "sales_q2_2025": 27
+  },
+  "PARKVILLE": {
+    "price_q2_2025": 2025000,
+    "sales_q2_2025": 6
+  },
+  "PASCOE VALE": {
+    "price_q2_2025": 1207000,
+    "sales_q2_2025": 27
+  },
+  "PASCOE VALE SOUTH": {
+    "price_q2_2025": 1227500,
+    "sales_q2_2025": 30
+  },
+  "PATTERSON GARDENS": {
+    "price_q2_2025": 1265000,
+    "sales_q2_2025": 5
+  },
+  "PATTERSON LAKES": {
+    "price_q2_2025": 1575000,
+    "sales_q2_2025": 12
+  },
+  "PAYNESVILLE": {
+    "price_q2_2025": 521500,
+    "sales_q2_2025": 30
+  },
+  "PEARCEDALE": {
+    "price_q2_2025": 952500,
+    "sales_q2_2025": 12
+  },
+  "PETERBOROUGH": {
+    "price_q2_2025": 650000,
+    "sales_q2_2025": 2
+  },
+  "PIONEER BAY": {
+    "price_q2_2025": 510500,
+    "sales_q2_2025": 2
+  },
+  "POINT COOK": {
+    "price_q2_2025": 800000,
+    "sales_q2_2025": 176
+  },
+  "POINT LONSDALE": {
+    "price_q2_2025": 1200000,
+    "sales_q2_2025": 19
+  },
+  "POREPUNKAH": {
+    "price_q2_2025": 925000,
+    "sales_q2_2025": 4
+  },
+  "PORT FAIRY": {
+    "price_q2_2025": 918800,
+    "sales_q2_2025": 10
+  },
+  "PORT MELBOURNE": {
+    "price_q2_2025": 1500000,
+    "sales_q2_2025": 41
+  },
+  "PORTARLINGTON": {
+    "price_q2_2025": 890000,
+    "sales_q2_2025": 21
+  },
+  "PORTLAND": {
+    "price_q2_2025": 397500,
+    "sales_q2_2025": 49
+  },
+  "PORTSEA": {
+    "price_q2_2025": 2825000,
+    "sales_q2_2025": 6
+  },
+  "PRAHRAN": {
+    "price_q2_2025": 1667500,
+    "sales_q2_2025": 40
+  },
+  "PRESTON": {
+    "price_q2_2025": 1230000,
+    "sales_q2_2025": 88
+  },
+  "PRINCES HILL": {
+    "price_q2_2025": 1800000,
+    "sales_q2_2025": 9
+  },
+  "QUARRY HILL": {
+    "price_q2_2025": 625000,
+    "sales_q2_2025": 11
+  },
+  "QUEENSCLIFF": {
+    "price_q2_2025": 1450000,
+    "sales_q2_2025": 5
+  },
+  "RAINBOW": {
+    "price_q2_2025": 220000,
+    "sales_q2_2025": 3
+  },
+  "RAWSON": {
+    "price_q2_2025": 358500,
+    "sales_q2_2025": 2
+  },
+  "RAYMOND ISLAND": {
+    "price_q2_2025": 580000,
+    "sales_q2_2025": 7
+  },
+  "RED CLIFFS": {
+    "price_q2_2025": 408800,
+    "sales_q2_2025": 30
+  },
+  "RED HILL": {
+    "price_q2_2025": 1232500,
+    "sales_q2_2025": 8
+  },
+  "REDAN": {
+    "price_q2_2025": 470000,
+    "sales_q2_2025": 22
+  },
+  "RESEARCH": {
+    "price_q2_2025": 1530500,
+    "sales_q2_2025": 8
+  },
+  "RESERVOIR": {
+    "price_q2_2025": 920000,
+    "sales_q2_2025": 129
+  },
+  "RHYLL": {
+    "price_q2_2025": 730500,
+    "sales_q2_2025": 8
+  },
+  "RICHMOND": {
+    "price_q2_2025": 1435000,
+    "sales_q2_2025": 67
+  },
+  "RIDDELLS CREEK": {
+    "price_q2_2025": 720000,
+    "sales_q2_2025": 9
+  },
+  "RINGWOOD": {
+    "price_q2_2025": 1002500,
+    "sales_q2_2025": 40
+  },
+  "RINGWOOD EAST": {
+    "price_q2_2025": 1050000,
+    "sales_q2_2025": 25
+  },
+  "RINGWOOD NORTH": {
+    "price_q2_2025": 1182300,
+    "sales_q2_2025": 34
+  },
+  "RIPPLESIDE": {
+    "price_q2_2025": 1230000,
+    "sales_q2_2025": 1
+  },
+  "RIPPONLEA": {
+    "price_q2_2025": 1870000,
+    "sales_q2_2025": 5
+  },
+  "ROBINVALE": {
+    "price_q2_2025": 364400,
+    "sales_q2_2025": 5
+  },
+  "ROCHESTER": {
+    "price_q2_2025": 442500,
+    "sales_q2_2025": 21
+  },
+  "ROCKBANK": {
+    "price_q2_2025": 620800,
+    "sales_q2_2025": 66
+  },
+  "ROMSEY": {
+    "price_q2_2025": 705000,
+    "sales_q2_2025": 18
+  },
+  "ROSANNA": {
+    "price_q2_2025": 1365500,
+    "sales_q2_2025": 24
+  },
+  "ROSEBUD": {
+    "price_q2_2025": 756300,
+    "sales_q2_2025": 60
+  },
+  "ROSEBUD SOUTH": {
+    "price_q2_2025": 1002500,
+    "sales_q2_2025": 21
+  },
+  "ROSEDALE": {
+    "price_q2_2025": 440000,
+    "sales_q2_2025": 5
+  },
+  "ROWVILLE": {
+    "price_q2_2025": 1150000,
+    "sales_q2_2025": 93
+  },
+  "ROXBURGH PARK": {
+    "price_q2_2025": 683000,
+    "sales_q2_2025": 88
+  },
+  "RUPANYUP": {
+    "price_q2_2025": 185000,
+    "sales_q2_2025": 5
+  },
+  "RUTHERGLEN": {
+    "price_q2_2025": 545000,
+    "sales_q2_2025": 13
+  },
+  "RYE": {
+    "price_q2_2025": 960000,
+    "sales_q2_2025": 78
+  },
+  "SAFETY BEACH": {
+    "price_q2_2025": 1055000,
+    "sales_q2_2025": 13
+  },
+  "SAILORS GULLY": {
+    "price_q2_2025": 460000,
+    "sales_q2_2025": 5
+  },
+  "SALE": {
+    "price_q2_2025": 488000,
+    "sales_q2_2025": 96
+  },
+  "SAN REMO": {
+    "price_q2_2025": 965000,
+    "sales_q2_2025": 11
+  },
+  "SANCTUARY LAKES": {
+    "price_q2_2025": 845800,
+    "sales_q2_2025": 109
+  },
+  "SANDHURST": {
+    "price_q2_2025": 1100000,
+    "sales_q2_2025": 28
+  },
+  "SANDRINGHAM": {
+    "price_q2_2025": 2107500,
+    "sales_q2_2025": 22
+  },
+  "SASSAFRAS": {
+    "price_q2_2025": 940000,
+    "sales_q2_2025": 7
+  },
+  "SCORESBY": {
+    "price_q2_2025": 1000000,
+    "sales_q2_2025": 25
+  },
+  "SEA LAKE": {
+    "price_q2_2025": 230000,
+    "sales_q2_2025": 3
+  },
+  "SEABROOK": {
+    "price_q2_2025": 745000,
+    "sales_q2_2025": 13
+  },
+  "SEAFORD": {
+    "price_q2_2025": 880000,
+    "sales_q2_2025": 79
+  },
+  "SEAHOLME": {
+    "price_q2_2025": 1055000,
+    "sales_q2_2025": 6
+  },
+  "SEBASTOPOL": {
+    "price_q2_2025": 465000,
+    "sales_q2_2025": 73
+  },
+  "SEDDON": {
+    "price_q2_2025": 1100000,
+    "sales_q2_2025": 25
+  },
+  "SELBY": {
+    "price_q2_2025": 930000,
+    "sales_q2_2025": 7
+  },
+  "SEVILLE": {
+    "price_q2_2025": 885000,
+    "sales_q2_2025": 5
+  },
+  "SEYMOUR": {
+    "price_q2_2025": 467500,
+    "sales_q2_2025": 32
+  },
+  "SHEPPARTON": {
+    "price_q2_2025": 476000,
+    "sales_q2_2025": 214
+  },
+  "SHEPPARTON NORTH": {
+    "price_q2_2025": 680000,
+    "sales_q2_2025": 9
+  },
+  "SHOREHAM": {
+    "price_q2_2025": 1637500,
+    "sales_q2_2025": 4
+  },
+  "SKYE": {
+    "price_q2_2025": 817000,
+    "sales_q2_2025": 39
+  },
+  "SMITHS BEACH": {
+    "price_q2_2025": 846000,
+    "sales_q2_2025": 6
+  },
+  "SMYTHES CREEK": {
+    "price_q2_2025": 559000,
+    "sales_q2_2025": 8
+  },
+  "SMYTHESDALE": {
+    "price_q2_2025": 555000,
+    "sales_q2_2025": 1
+  },
+  "SOLDIERS HILL": {
+    "price_q2_2025": 574000,
+    "sales_q2_2025": 16
+  },
+  "SOMERS": {
+    "price_q2_2025": 1387500,
+    "sales_q2_2025": 6
+  },
+  "SOMERVILLE": {
+    "price_q2_2025": 790000,
+    "sales_q2_2025": 42
+  },
+  "SORRENTO": {
+    "price_q2_2025": 1642500,
+    "sales_q2_2025": 18
+  },
+  "SOUTH DUDLEY": {
+    "price_q2_2025": 489500,
+    "sales_q2_2025": 2
+  },
+  "SOUTH GEELONG": {
+    "price_q2_2025": 682500,
+    "sales_q2_2025": 3
+  },
+  "SOUTH KINGSVILLE": {
+    "price_q2_2025": 1306300,
+    "sales_q2_2025": 10
+  },
+  "SOUTH MELBOURNE": {
+    "price_q2_2025": 1760000,
+    "sales_q2_2025": 17
+  },
+  "SOUTH MORANG": {
+    "price_q2_2025": 805000,
+    "sales_q2_2025": 97
+  },
+  "SOUTH YARRA": {
+    "price_q2_2025": 2100000,
+    "sales_q2_2025": 33
+  },
+  "SPOTSWOOD": {
+    "price_q2_2025": 1200000,
+    "sales_q2_2025": 11
+  },
+  "SPRING GULLY": {
+    "price_q2_2025": 616300,
+    "sales_q2_2025": 10
+  },
+  "SPRINGVALE": {
+    "price_q2_2025": 931500,
+    "sales_q2_2025": 32
+  },
+  "SPRINGVALE SOUTH": {
+    "price_q2_2025": 830000,
+    "sales_q2_2025": 29
+  },
+  "ST ALBANS": {
+    "price_q2_2025": 680000,
+    "sales_q2_2025": 106
+  },
+  "ST ALBANS PARK": {
+    "price_q2_2025": 651300,
+    "sales_q2_2025": 20
+  },
+  "ST ANDREWS BEACH": {
+    "price_q2_2025": 1355000,
+    "sales_q2_2025": 7
+  },
+  "ST ARNAUD": {
+    "price_q2_2025": 317500,
+    "sales_q2_2025": 12
+  },
+  "ST HELENA": {
+    "price_q2_2025": 1070000,
+    "sales_q2_2025": 5
+  },
+  "ST KILDA": {
+    "price_q2_2025": 1810000,
+    "sales_q2_2025": 16
+  },
+  "ST KILDA EAST": {
+    "price_q2_2025": 1520000,
+    "sales_q2_2025": 19
+  },
+  "ST KILDA WEST": {
+    "price_q2_2025": 2300000,
+    "sales_q2_2025": 3
+  },
+  "ST LEONARDS": {
+    "price_q2_2025": 650000,
+    "sales_q2_2025": 31
+  },
+  "STANHOPE": {
+    "price_q2_2025": 319000,
+    "sales_q2_2025": 4
+  },
+  "STAWELL": {
+    "price_q2_2025": 380000,
+    "sales_q2_2025": 37
+  },
+  "STRATFORD": {
+    "price_q2_2025": 486500,
+    "sales_q2_2025": 16
+  },
+  "STRATHDALE": {
+    "price_q2_2025": 660000,
+    "sales_q2_2025": 37
+  },
+  "STRATHFIELDSAYE": {
+    "price_q2_2025": 680000,
+    "sales_q2_2025": 33
+  },
+  "STRATHMERTON": {
+    "price_q2_2025": 440000,
+    "sales_q2_2025": 1
+  },
+  "STRATHMORE": {
+    "price_q2_2025": 1705000,
+    "sales_q2_2025": 26
+  },
+  "STRATHMORE HEIGHTS": {
+    "price_q2_2025": 1080000,
+    "sales_q2_2025": 10
+  },
+  "STRATHTULLOH": {
+    "price_q2_2025": 635000,
+    "sales_q2_2025": 65
+  },
+  "STUDFIELD": {
+    "price_q2_2025": 1043500,
+    "sales_q2_2025": 18
+  },
+  "SUNBURY": {
+    "price_q2_2025": 675000,
+    "sales_q2_2025": 247
+  },
+  "SUNDERLAND BAY": {
+    "price_q2_2025": 635000,
+    "sales_q2_2025": 5
+  },
+  "SUNNYCLIFFS": {
+    "price_q2_2025": 430000,
+    "sales_q2_2025": 4
+  },
+  "SUNSET STRIP": {
+    "price_q2_2025": 590000,
+    "sales_q2_2025": 1
+  },
+  "SUNSHINE": {
+    "price_q2_2025": 823000,
+    "sales_q2_2025": 32
+  },
+  "SUNSHINE NORTH": {
+    "price_q2_2025": 755000,
+    "sales_q2_2025": 37
+  },
+  "SUNSHINE WEST": {
+    "price_q2_2025": 712500,
+    "sales_q2_2025": 60
+  },
+  "SURF BEACH": {
+    "price_q2_2025": 740000,
+    "sales_q2_2025": 3
+  },
+  "SURREY HILLS": {
+    "price_q2_2025": 2260000,
+    "sales_q2_2025": 26
+  },
+  "SWAN HILL": {
+    "price_q2_2025": 480300,
+    "sales_q2_2025": 45
+  },
+  "SWAN REACH": {
+    "price_q2_2025": 638500,
+    "sales_q2_2025": 5
+  },
+  "SYDENHAM": {
+    "price_q2_2025": 750500,
+    "sales_q2_2025": 21
+  },
+  "SYNDAL": {
+    "price_q2_2025": 1753000,
+    "sales_q2_2025": 12
+  },
+  "TALLANGATTA": {
+    "price_q2_2025": 535000,
+    "sales_q2_2025": 4
+  },
+  "TANGAMBALANGA": {
+    "price_q2_2025": 715000,
+    "sales_q2_2025": 5
+  },
+  "TARNEIT": {
+    "price_q2_2025": 665000,
+    "sales_q2_2025": 440
+  },
+  "TATURA": {
+    "price_q2_2025": 521000,
+    "sales_q2_2025": 14
+  },
+  "TAWONGA SOUTH": {
+    "price_q2_2025": 780000,
+    "sales_q2_2025": 5
+  },
+  "TAYLORS HILL": {
+    "price_q2_2025": 932000,
+    "sales_q2_2025": 19
+  },
+  "TAYLORS LAKES": {
+    "price_q2_2025": 908000,
+    "sales_q2_2025": 34
+  },
+  "TECOMA": {
+    "price_q2_2025": 912500,
+    "sales_q2_2025": 8
+  },
+  "TEMPLESTOWE": {
+    "price_q2_2025": 1587500,
+    "sales_q2_2025": 42
+  },
+  "TEMPLESTOWE LOWER": {
+    "price_q2_2025": 1350000,
+    "sales_q2_2025": 51
+  },
+  "TERANG": {
+    "price_q2_2025": 365000,
+    "sales_q2_2025": 6
+  },
+  "THE BASIN": {
+    "price_q2_2025": 875000,
+    "sales_q2_2025": 11
+  },
+  "THOMASTOWN": {
+    "price_q2_2025": 755000,
+    "sales_q2_2025": 83
+  },
+  "THOMSON (GREATER GEELONG)": {
+    "price_q2_2025": 583000,
+    "sales_q2_2025": 10
+  },
+  "THORNBURY": {
+    "price_q2_2025": 1390000,
+    "sales_q2_2025": 50
+  },
+  "THORNHILL PARK": {
+    "price_q2_2025": 600700,
+    "sales_q2_2025": 74
+  },
+  "TIMBOON": {
+    "price_q2_2025": 577500,
+    "sales_q2_2025": 6
+  },
+  "TONGALA": {
+    "price_q2_2025": 420000,
+    "sales_q2_2025": 9
+  },
+  "TOONGABBIE": {
+    "price_q2_2025": 785000,
+    "sales_q2_2025": 2
+  },
+  "TOORADIN": {
+    "price_q2_2025": 805000,
+    "sales_q2_2025": 4
+  },
+  "TOORAK": {
+    "price_q2_2025": 5000000,
+    "sales_q2_2025": 23
+  },
+  "TOOTGAROOK": {
+    "price_q2_2025": 915000,
+    "sales_q2_2025": 17
+  },
+  "TORQUAY": {
+    "price_q2_2025": 1180000,
+    "sales_q2_2025": 73
+  },
+  "TRAFALGAR": {
+    "price_q2_2025": 625000,
+    "sales_q2_2025": 30
+  },
+  "TRARALGON": {
+    "price_q2_2025": 522500,
+    "sales_q2_2025": 175
+  },
+  "TRARALGON EAST": {
+    "price_q2_2025": 735000,
+    "sales_q2_2025": 5
+  },
+  "TRENTHAM": {
+    "price_q2_2025": 970000,
+    "sales_q2_2025": 7
+  },
+  "TRUGANINA": {
+    "price_q2_2025": 670800,
+    "sales_q2_2025": 240
+  },
+  "TULLAMARINE": {
+    "price_q2_2025": 800000,
+    "sales_q2_2025": 21
+  },
+  "TUNGAMAH": {
+    "price_q2_2025": 327500,
+    "sales_q2_2025": 4
+  },
+  "TYABB": {
+    "price_q2_2025": 790000,
+    "sales_q2_2025": 15
+  },
+  "UNDERBOOL": {
+    "price_q2_2025": 200000,
+    "sales_q2_2025": 3
+  },
+  "UPPER FERNTREE GULLY": {
+    "price_q2_2025": 920000,
+    "sales_q2_2025": 11
+  },
+  "UPWEY": {
+    "price_q2_2025": 895000,
+    "sales_q2_2025": 22
+  },
+  "VENTNOR": {
+    "price_q2_2025": 865000,
+    "sales_q2_2025": 10
+  },
+  "VENUS BAY": {
+    "price_q2_2025": 454000,
+    "sales_q2_2025": 14
+  },
+  "VERMONT": {
+    "price_q2_2025": 1395500,
+    "sales_q2_2025": 25
+  },
+  "VERMONT SOUTH": {
+    "price_q2_2025": 1510500,
+    "sales_q2_2025": 36
+  },
+  "VIEWBANK": {
+    "price_q2_2025": 1120000,
+    "sales_q2_2025": 19
+  },
+  "WAHGUNYAH": {
+    "price_q2_2025": 638500,
+    "sales_q2_2025": 6
+  },
+  "WALLAN": {
+    "price_q2_2025": 640000,
+    "sales_q2_2025": 61
+  },
+  "WALLAN EAST": {
+    "price_q2_2025": 587500,
+    "sales_q2_2025": 40
+  },
+  "WANDANA HEIGHTS": {
+    "price_q2_2025": 1212000,
+    "sales_q2_2025": 11
+  },
+  "WANDIN NORTH": {
+    "price_q2_2025": 785000,
+    "sales_q2_2025": 9
+  },
+  "WANGARATTA": {
+    "price_q2_2025": 516300,
+    "sales_q2_2025": 92
+  },
+  "WANTIRNA": {
+    "price_q2_2025": 1230000,
+    "sales_q2_2025": 50
+  },
+  "WANTIRNA SOUTH": {
+    "price_q2_2025": 1362000,
+    "sales_q2_2025": 40
+  },
+  "WARBURTON": {
+    "price_q2_2025": 745000,
+    "sales_q2_2025": 7
+  },
+  "WARRACKNABEAL": {
+    "price_q2_2025": 205000,
+    "sales_q2_2025": 14
+  },
+  "WARRAGUL": {
+    "price_q2_2025": 650000,
+    "sales_q2_2025": 126
+  },
+  "WARRANDYTE": {
+    "price_q2_2025": 1330000,
+    "sales_q2_2025": 14
+  },
+  "WARRANWOOD": {
+    "price_q2_2025": 1280000,
+    "sales_q2_2025": 19
+  },
+  "WARRNAMBOOL": {
+    "price_q2_2025": 609000,
+    "sales_q2_2025": 159
+  },
+  "WATERWAYS": {
+    "price_q2_2025": 1635000,
+    "sales_q2_2025": 11
+  },
+  "WATSONIA": {
+    "price_q2_2025": 941000,
+    "sales_q2_2025": 19
+  },
+  "WATSONIA NORTH": {
+    "price_q2_2025": 863500,
+    "sales_q2_2025": 7
+  },
+  "WATTLE GLEN": {
+    "price_q2_2025": 1125000,
+    "sales_q2_2025": 7
+  },
+  "WAURN PONDS": {
+    "price_q2_2025": 780000,
+    "sales_q2_2025": 14
+  },
+  "WEDDERBURN": {
+    "price_q2_2025": 257000,
+    "sales_q2_2025": 4
+  },
+  "WEIR VIEWS": {
+    "price_q2_2025": 565000,
+    "sales_q2_2025": 61
+  },
+  "WENDOUREE": {
+    "price_q2_2025": 502000,
+    "sales_q2_2025": 65
+  },
+  "WENDOUREE WEST": {
+    "price_q2_2025": 380000,
+    "sales_q2_2025": 9
+  },
+  "WERRIBEE": {
+    "price_q2_2025": 641000,
+    "sales_q2_2025": 289
+  },
+  "WERRIBEE SOUTH": {
+    "price_q2_2025": 850000,
+    "sales_q2_2025": 7
+  },
+  "WEST FOOTSCRAY": {
+    "price_q2_2025": 945000,
+    "sales_q2_2025": 30
+  },
+  "WEST MELBOURNE": {
+    "price_q2_2025": 1430000,
+    "sales_q2_2025": 5
+  },
+  "WEST WODONGA": {
+    "price_q2_2025": 610000,
+    "sales_q2_2025": 63
+  },
+  "WESTALL": {
+    "price_q2_2025": 905000,
+    "sales_q2_2025": 17
+  },
+  "WESTGARTH": {
+    "price_q2_2025": 1912500,
+    "sales_q2_2025": 14
+  },
+  "WESTMEADOWS": {
+    "price_q2_2025": 740000,
+    "sales_q2_2025": 13
+  },
+  "WHEELERS HILL": {
+    "price_q2_2025": 1430000,
+    "sales_q2_2025": 63
+  },
+  "WHITE HILLS": {
+    "price_q2_2025": 598000,
+    "sales_q2_2025": 21
+  },
+  "WHITTINGTON": {
+    "price_q2_2025": 557500,
+    "sales_q2_2025": 12
+  },
+  "WHITTLESEA": {
+    "price_q2_2025": 735000,
+    "sales_q2_2025": 25
+  },
+  "WILLIAMS LANDING": {
+    "price_q2_2025": 840000,
+    "sales_q2_2025": 45
+  },
+  "WILLIAMSTOWN": {
+    "price_q2_2025": 1600000,
+    "sales_q2_2025": 35
+  },
+  "WILLIAMSTOWN NORTH": {
+    "price_q2_2025": 1392500,
+    "sales_q2_2025": 2
+  },
+  "WIMBLEDON HEIGHTS": {
+    "price_q2_2025": 561300,
+    "sales_q2_2025": 2
+  },
+  "WINCHELSEA": {
+    "price_q2_2025": 590000,
+    "sales_q2_2025": 22
+  },
+  "WINDSOR": {
+    "price_q2_2025": 1400000,
+    "sales_q2_2025": 19
+  },
+  "WINTER VALLEY": {
+    "price_q2_2025": 565000,
+    "sales_q2_2025": 61
+  },
+  "WODONGA": {
+    "price_q2_2025": 601000,
+    "sales_q2_2025": 120
+  },
+  "WOLLERT": {
+    "price_q2_2025": 705000,
+    "sales_q2_2025": 243
+  },
+  "WONGA PARK": {
+    "price_q2_2025": 1073500,
+    "sales_q2_2025": 6
+  },
+  "WONTHAGGI": {
+    "price_q2_2025": 490000,
+    "sales_q2_2025": 13
+  },
+  "WOODEND": {
+    "price_q2_2025": 892500,
+    "sales_q2_2025": 26
+  },
+  "WOODSTOCK": {
+    "price_q2_2025": 627000,
+    "sales_q2_2025": 10
+  },
+  "WOOLAMAI WATERS": {
+    "price_q2_2025": 648000,
+    "sales_q2_2025": 18
+  },
+  "WOORI YALLOCK": {
+    "price_q2_2025": 735000,
+    "sales_q2_2025": 10
+  },
+  "WY YUNG": {
+    "price_q2_2025": 432000,
+    "sales_q2_2025": 4
+  },
+  "WYNDHAM VALE": {
+    "price_q2_2025": 590000,
+    "sales_q2_2025": 184
+  },
+  "YACKANDANDAH": {
+    "price_q2_2025": 833000,
+    "sales_q2_2025": 7
+  },
+  "YALLAMBIE": {
+    "price_q2_2025": 980000,
+    "sales_q2_2025": 17
+  },
+  "YALLOURN NORTH": {
+    "price_q2_2025": 477500,
+    "sales_q2_2025": 7
+  },
+  "YARRA GLEN": {
+    "price_q2_2025": 814500,
+    "sales_q2_2025": 7
+  },
+  "YARRA JUNCTION": {
+    "price_q2_2025": 748000,
+    "sales_q2_2025": 11
+  },
+  "YARRAGON": {
+    "price_q2_2025": 645000,
+    "sales_q2_2025": 11
+  },
+  "YARRAM": {
+    "price_q2_2025": 305000,
+    "sales_q2_2025": 8
+  },
+  "YARRAVILLE": {
+    "price_q2_2025": 1140000,
+    "sales_q2_2025": 69
+  },
+  "YARRAWONGA": {
+    "price_q2_2025": 615000,
+    "sales_q2_2025": 46
+  },
+  "YEA": {
+    "price_q2_2025": 525000,
+    "sales_q2_2025": 7
+  },
+  "YINNAR": {
+    "price_q2_2025": 390000,
+    "sales_q2_2025": 6
+  }
+}

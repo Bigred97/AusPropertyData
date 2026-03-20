@@ -1,0 +1,13 @@
+.env
+.env.local
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+
+# Supabase CLI
+supabase/.temp/
+# Local VPSR mirror output (scripts/publish_vpsr_mirror.py)
+mirror/

@@ -1,0 +1,60 @@
+# Polls Victorian open data on a schedule. Exact publication dates are not fixed — see docs/DATA_SOURCES.md
+name: Quarterly data update
+
+on:
+  schedule:
+    # Weekly (Mon 22:00 UTC ≈ Tue morning Melbourne) — catches new catalogue drops within ~7 days
+    - cron: "0 22 * * 1"
+    # Mid-month — DFFH releases often land around the 15th
+    - cron: "0 22 15 * *"
+  workflow_dispatch:
+
+concurrency:
+  group: data-ingestion-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # DFFH first: scripted download from dffh.vic.gov.au usually works from GitHub
+      # runners; land.vic.gov.au often returns 403 (use VPSR_*_URL mirror secrets).
+      - name: Run DFFH rental
+        env:
+          SUPABASE_DB_URL: ${{ secrets.SUPABASE_DB_URL }}
+        run: python -m ingestion.dffh_rental
+
+      - name: Run VPSR houses
+        env:
+          SUPABASE_DB_URL: ${{ secrets.SUPABASE_DB_URL }}
+          VPSR_HOUSES_URL: ${{ secrets.VPSR_HOUSES_URL }}
+        run: python -m ingestion.vpsr_houses
+
+      - name: Run VPSR units
+        env:
+          SUPABASE_DB_URL: ${{ secrets.SUPABASE_DB_URL }}
+          VPSR_UNITS_URL: ${{ secrets.VPSR_UNITS_URL }}
+        run: python -m ingestion.vpsr_units
+
+      - name: Recompute investment scores
+        env:
+          SUPABASE_DB_URL: ${{ secrets.SUPABASE_DB_URL }}
+        run: python -m ingestion.recompute_scores
+
+      - name: Notify on failure
+        if: failure()
+        run: |
+          if [ -n "${{ secrets.SLACK_WEBHOOK }}" ]; then
+            curl -X POST "${{ secrets.SLACK_WEBHOOK }}" \
+              -H 'Content-type: application/json' \
+              -d '{"text":"AussiePropertyData ingestion failed — check GitHub Actions"}'
+          fi

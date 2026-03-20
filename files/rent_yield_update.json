@@ -1,0 +1,1370 @@
+[
+  {
+    "suburb": "ABBOTSFORD",
+    "rent_3br_wk": 950,
+    "rent_2br_wk": 695,
+    "unit_price_2023": 530000,
+    "gross_yield": 3.95
+  },
+  {
+    "suburb": "ALBERT PARK",
+    "rent_3br_wk": 1150,
+    "rent_2br_wk": 643,
+    "unit_price_2023": 980000,
+    "gross_yield": 2.72
+  },
+  {
+    "suburb": "ALFREDTON",
+    "rent_3br_wk": 410,
+    "rent_2br_wk": 350,
+    "unit_price_2023": 358000,
+    "gross_yield": 3.33
+  },
+  {
+    "suburb": "ALPHINGTON",
+    "rent_3br_wk": 850,
+    "rent_2br_wk": 575,
+    "unit_price_2023": 775000,
+    "gross_yield": 2.13
+  },
+  {
+    "suburb": "ALTONA",
+    "rent_3br_wk": 530,
+    "rent_2br_wk": 475,
+    "unit_price_2023": 700000,
+    "gross_yield": 2.43
+  },
+  {
+    "suburb": "ARMADALE",
+    "rent_3br_wk": 1100,
+    "rent_2br_wk": 650,
+    "unit_price_2023": 730000,
+    "gross_yield": 2.21
+  },
+  {
+    "suburb": "ASCOT VALE",
+    "rent_3br_wk": 750,
+    "rent_2br_wk": 550,
+    "unit_price_2023": 540000,
+    "gross_yield": 3.0
+  },
+  {
+    "suburb": "ASHBURTON",
+    "rent_3br_wk": 650,
+    "rent_2br_wk": 570,
+    "unit_price_2023": 1582000,
+    "gross_yield": 1.7
+  },
+  {
+    "suburb": "ASPENDALE",
+    "rent_3br_wk": 680,
+    "rent_2br_wk": 545,
+    "unit_price_2023": 796000,
+    "gross_yield": 2.65
+  },
+  {
+    "suburb": "AVONDALE HEIGHTS",
+    "rent_3br_wk": 580,
+    "rent_2br_wk": 520,
+    "unit_price_2023": 670000,
+    "gross_yield": 3.22
+  },
+  {
+    "suburb": "BAIRNSDALE",
+    "rent_3br_wk": 460,
+    "rent_2br_wk": 370,
+    "gross_yield": 5.5
+  },
+  {
+    "suburb": "BALWYN",
+    "rent_3br_wk": 750,
+    "rent_2br_wk": 588,
+    "unit_price_2023": 887500,
+    "gross_yield": 1.31
+  },
+  {
+    "suburb": "BARWON HEADS",
+    "rent_3br_wk": 550,
+    "rent_2br_wk": 468,
+    "unit_price_2023": 1025000,
+    "gross_yield": 1.57
+  },
+  {
+    "suburb": "BAYSWATER",
+    "rent_3br_wk": 590,
+    "rent_2br_wk": 493,
+    "unit_price_2023": 639000,
+    "gross_yield": 3.52
+  },
+  {
+    "suburb": "BEAUMARIS",
+    "rent_3br_wk": 895,
+    "rent_2br_wk": 650,
+    "unit_price_2023": 1250000,
+    "gross_yield": 2.28
+  },
+  {
+    "suburb": "BENALLA",
+    "rent_3br_wk": 450,
+    "rent_2br_wk": 370,
+    "unit_price_2023": 302500,
+    "gross_yield": 5.44
+  },
+  {
+    "suburb": "BENDIGO",
+    "rent_3br_wk": 480,
+    "rent_2br_wk": 400,
+    "unit_price_2023": 480000,
+    "gross_yield": 4.62
+  },
+  {
+    "suburb": "BENTLEIGH",
+    "rent_3br_wk": 735,
+    "rent_2br_wk": 590,
+    "unit_price_2023": 815000,
+    "gross_yield": 2.26
+  },
+  {
+    "suburb": "BERWICK",
+    "rent_3br_wk": 560,
+    "rent_2br_wk": 500,
+    "unit_price_2023": 650000,
+    "gross_yield": 3.41
+  },
+  {
+    "suburb": "BLACKBURN",
+    "rent_3br_wk": 620,
+    "rent_2br_wk": 550,
+    "unit_price_2023": 718000,
+    "gross_yield": 2.02
+  },
+  {
+    "suburb": "BORONIA",
+    "rent_3br_wk": 590,
+    "rent_2br_wk": 500,
+    "unit_price_2023": 651500,
+    "gross_yield": 3.59
+  },
+  {
+    "suburb": "BOX HILL",
+    "rent_3br_wk": 650,
+    "rent_2br_wk": 610,
+    "unit_price_2023": 585000,
+    "gross_yield": 2.01
+  },
+  {
+    "suburb": "BRIGHTON",
+    "rent_3br_wk": 1150,
+    "rent_2br_wk": 680,
+    "unit_price_2023": 1375000,
+    "gross_yield": 1.87
+  },
+  {
+    "suburb": "BRIGHTON EAST",
+    "rent_3br_wk": 940,
+    "rent_2br_wk": 630,
+    "unit_price_2023": 1250000,
+    "gross_yield": 2.02
+  },
+  {
+    "suburb": "BROADMEADOWS",
+    "rent_3br_wk": 506,
+    "rent_2br_wk": 470,
+    "unit_price_2023": 445000,
+    "gross_yield": 4.7
+  },
+  {
+    "suburb": "BRUNSWICK",
+    "rent_3br_wk": 850,
+    "rent_2br_wk": 600,
+    "unit_price_2023": 570000,
+    "gross_yield": 3.4
+  },
+  {
+    "suburb": "BULLEEN",
+    "rent_3br_wk": 660,
+    "rent_2br_wk": 595,
+    "unit_price_2023": 890000,
+    "gross_yield": 2.45
+  },
+  {
+    "suburb": "BUNDOORA",
+    "rent_3br_wk": 570,
+    "rent_2br_wk": 490,
+    "unit_price_2023": 460000,
+    "gross_yield": 3.45
+  },
+  {
+    "suburb": "BUNINYONG",
+    "rent_3br_wk": 430,
+    "rent_2br_wk": 360,
+    "gross_yield": 3.29
+  },
+  {
+    "suburb": "BURNLEY",
+    "rent_3br_wk": 990,
+    "rent_2br_wk": 700,
+    "unit_price_2023": 535000,
+    "gross_yield": 3.25
+  },
+  {
+    "suburb": "BURWOOD",
+    "rent_3br_wk": 650,
+    "rent_2br_wk": 570,
+    "unit_price_2023": 861000,
+    "gross_yield": 2.26
+  },
+  {
+    "suburb": "BURWOOD EAST",
+    "rent_3br_wk": 630,
+    "rent_2br_wk": 578,
+    "unit_price_2023": 622500,
+    "gross_yield": 2.56
+  },
+  {
+    "suburb": "CAMBERWELL",
+    "rent_3br_wk": 838,
+    "rent_2br_wk": 600,
+    "unit_price_2023": 938500,
+    "gross_yield": 1.72
+  },
+  {
+    "suburb": "CANTERBURY",
+    "rent_3br_wk": 800,
+    "rent_2br_wk": 570,
+    "unit_price_2023": 1115000,
+    "gross_yield": 1.28
+  },
+  {
+    "suburb": "CARLTON",
+    "rent_3br_wk": 950,
+    "rent_2br_wk": 670,
+    "unit_price_2023": 395000,
+    "gross_yield": 3.33
+  },
+  {
+    "suburb": "CARLTON NORTH",
+    "rent_3br_wk": 950,
+    "rent_2br_wk": 600,
+    "unit_price_2023": 680000,
+    "gross_yield": 3.34
+  },
+  {
+    "suburb": "CARNEGIE",
+    "rent_3br_wk": 750,
+    "rent_2br_wk": 595,
+    "unit_price_2023": 620000,
+    "gross_yield": 2.33
+  },
+  {
+    "suburb": "CARRUM",
+    "rent_3br_wk": 680,
+    "rent_2br_wk": 545,
+    "unit_price_2023": 730000,
+    "gross_yield": 3.43
+  },
+  {
+    "suburb": "CARRUM DOWNS",
+    "rent_3br_wk": 560,
+    "rent_2br_wk": 470,
+    "unit_price_2023": 557500,
+    "gross_yield": 4.19
+  },
+  {
+    "suburb": "CASTLEMAINE",
+    "rent_3br_wk": 500,
+    "rent_2br_wk": 390,
+    "unit_price_2023": 612000,
+    "gross_yield": 3.59
+  },
+  {
+    "suburb": "CAULFIELD",
+    "rent_3br_wk": 850,
+    "rent_2br_wk": 630,
+    "unit_price_2023": 765000,
+    "gross_yield": 2.47
+  },
+  {
+    "suburb": "CHADSTONE",
+    "rent_3br_wk": 630,
+    "rent_2br_wk": 580,
+    "unit_price_2023": 888000,
+    "gross_yield": 2.54
+  },
+  {
+    "suburb": "CHELSEA",
+    "rent_3br_wk": 680,
+    "rent_2br_wk": 545,
+    "unit_price_2023": 688000,
+    "gross_yield": 2.95
+  },
+  {
+    "suburb": "CHELTENHAM",
+    "rent_3br_wk": 720,
+    "rent_2br_wk": 550,
+    "unit_price_2023": 660000,
+    "gross_yield": 2.79
+  },
+  {
+    "suburb": "CLAYTON",
+    "rent_3br_wk": 603,
+    "rent_2br_wk": 590,
+    "unit_price_2023": 680000,
+    "gross_yield": 2.69
+  },
+  {
+    "suburb": "CLIFTON HILL",
+    "rent_3br_wk": 998,
+    "rent_2br_wk": 690,
+    "unit_price_2023": 737000,
+    "gross_yield": 3.01
+  },
+  {
+    "suburb": "COBURG",
+    "rent_3br_wk": 710,
+    "rent_2br_wk": 550,
+    "unit_price_2023": 590500,
+    "gross_yield": 3.13
+  },
+  {
+    "suburb": "COBURG NORTH",
+    "rent_3br_wk": 620,
+    "rent_2br_wk": 500,
+    "unit_price_2023": 787500,
+    "gross_yield": 3.29
+  },
+  {
+    "suburb": "COLLINGWOOD",
+    "rent_3br_wk": 950,
+    "rent_2br_wk": 695,
+    "unit_price_2023": 642500,
+    "gross_yield": 4.03
+  },
+  {
+    "suburb": "CORIO",
+    "rent_3br_wk": 420,
+    "rent_2br_wk": 380,
+    "unit_price_2023": 381500,
+    "gross_yield": 4.55
+  },
+  {
+    "suburb": "CRAIGIEBURN",
+    "rent_3br_wk": 500,
+    "rent_2br_wk": 440,
+    "unit_price_2023": 440500,
+    "gross_yield": 4.0
+  },
+  {
+    "suburb": "CRANBOURNE",
+    "rent_3br_wk": 550,
+    "rent_2br_wk": 460,
+    "unit_price_2023": 450000,
+    "gross_yield": 4.37
+  },
+  {
+    "suburb": "CROYDON",
+    "rent_3br_wk": 600,
+    "rent_2br_wk": 500,
+    "unit_price_2023": 675000,
+    "gross_yield": 3.41
+  },
+  {
+    "suburb": "DANDENONG",
+    "rent_3br_wk": 560,
+    "rent_2br_wk": 450,
+    "unit_price_2023": 400000,
+    "gross_yield": 4.24
+  },
+  {
+    "suburb": "DANDENONG NORTH",
+    "rent_3br_wk": 530,
+    "rent_2br_wk": 468,
+    "unit_price_2023": 529500,
+    "gross_yield": 3.82
+  },
+  {
+    "suburb": "DEER PARK",
+    "rent_3br_wk": 470,
+    "rent_2br_wk": 420,
+    "unit_price_2023": 486000,
+    "gross_yield": 3.82
+  },
+  {
+    "suburb": "DELACOMBE",
+    "rent_3br_wk": 400,
+    "rent_2br_wk": 350,
+    "gross_yield": 3.94
+  },
+  {
+    "suburb": "DONCASTER",
+    "rent_3br_wk": 660,
+    "rent_2br_wk": 595,
+    "unit_price_2023": 650500,
+    "gross_yield": 2.21
+  },
+  {
+    "suburb": "DONCASTER EAST",
+    "rent_3br_wk": 680,
+    "rent_2br_wk": 575,
+    "unit_price_2023": 880000,
+    "gross_yield": 2.17
+  },
+  {
+    "suburb": "DONVALE",
+    "rent_3br_wk": 680,
+    "rent_2br_wk": 575,
+    "unit_price_2023": 965000,
+    "gross_yield": 2.46
+  },
+  {
+    "suburb": "DROMANA",
+    "rent_3br_wk": 570,
+    "rent_2br_wk": 478,
+    "unit_price_2023": 790000,
+    "gross_yield": 2.82
+  },
+  {
+    "suburb": "EAST MELBOURNE",
+    "rent_3br_wk": 1100,
+    "rent_2br_wk": 690,
+    "unit_price_2023": 657500,
+    "gross_yield": 1.7
+  },
+  {
+    "suburb": "ECHUCA",
+    "rent_3br_wk": 520,
+    "rent_2br_wk": 420,
+    "unit_price_2023": 371000,
+    "gross_yield": 4.66
+  },
+  {
+    "suburb": "ELSTERNWICK",
+    "rent_3br_wk": 900,
+    "rent_2br_wk": 600,
+    "unit_price_2023": 641000,
+    "gross_yield": 2.16
+  },
+  {
+    "suburb": "ELTHAM",
+    "rent_3br_wk": 650,
+    "rent_2br_wk": 500,
+    "unit_price_2023": 725000,
+    "gross_yield": 2.84
+  },
+  {
+    "suburb": "ELWOOD",
+    "rent_3br_wk": 1095,
+    "rent_2br_wk": 608,
+    "unit_price_2023": 673000,
+    "gross_yield": 2.59
+  },
+  {
+    "suburb": "ENDEAVOUR HILLS",
+    "rent_3br_wk": 530,
+    "rent_2br_wk": 468,
+    "unit_price_2023": 637500,
+    "gross_yield": 3.47
+  },
+  {
+    "suburb": "EPPING",
+    "rent_3br_wk": 530,
+    "rent_2br_wk": 450,
+    "unit_price_2023": 480000,
+    "gross_yield": 4.13
+  },
+  {
+    "suburb": "ESSENDON",
+    "rent_3br_wk": 650,
+    "rent_2br_wk": 510,
+    "unit_price_2023": 535000,
+    "gross_yield": 1.92
+  },
+  {
+    "suburb": "FAIRFIELD",
+    "rent_3br_wk": 850,
+    "rent_2br_wk": 575,
+    "unit_price_2023": 565000,
+    "gross_yield": 2.79
+  },
+  {
+    "suburb": "FAWKNER",
+    "rent_3br_wk": 551,
+    "rent_2br_wk": 490,
+    "unit_price_2023": 592500,
+    "gross_yield": 3.72
+  },
+  {
+    "suburb": "FERNTREE GULLY",
+    "rent_3br_wk": 600,
+    "rent_2br_wk": 520,
+    "unit_price_2023": 680000,
+    "gross_yield": 3.51
+  },
+  {
+    "suburb": "FITZROY",
+    "rent_3br_wk": 1100,
+    "rent_2br_wk": 750,
+    "unit_price_2023": 825000,
+    "gross_yield": 3.74
+  },
+  {
+    "suburb": "FITZROY NORTH",
+    "rent_3br_wk": 998,
+    "rent_2br_wk": 690,
+    "unit_price_2023": 680000,
+    "gross_yield": 3.24
+  },
+  {
+    "suburb": "FLEMINGTON",
+    "rent_3br_wk": 760,
+    "rent_2br_wk": 560,
+    "unit_price_2023": 385000,
+    "gross_yield": 3.85
+  },
+  {
+    "suburb": "FLINDERS",
+    "rent_3br_wk": 595,
+    "rent_2br_wk": 470,
+    "gross_yield": 1.46
+  },
+  {
+    "suburb": "FLORA HILL",
+    "rent_3br_wk": 475,
+    "rent_2br_wk": 380,
+    "unit_price_2023": 425000,
+    "gross_yield": 4.75
+  },
+  {
+    "suburb": "FOOTSCRAY",
+    "rent_3br_wk": 640,
+    "rent_2br_wk": 560,
+    "unit_price_2023": 529000,
+    "gross_yield": 3.69
+  },
+  {
+    "suburb": "FOREST HILL",
+    "rent_3br_wk": 630,
+    "rent_2br_wk": 578,
+    "unit_price_2023": 830000,
+    "gross_yield": 2.62
+  },
+  {
+    "suburb": "FRANKSTON",
+    "rent_3br_wk": 570,
+    "rent_2br_wk": 475,
+    "unit_price_2023": 505000,
+    "gross_yield": 4.03
+  },
+  {
+    "suburb": "GEELONG",
+    "rent_3br_wk": 480,
+    "rent_2br_wk": 460,
+    "unit_price_2023": 741000,
+    "gross_yield": 2.54
+  },
+  {
+    "suburb": "GEELONG WEST",
+    "rent_3br_wk": 520,
+    "rent_2br_wk": 410,
+    "unit_price_2023": 573000,
+    "gross_yield": 2.97
+  },
+  {
+    "suburb": "GLADSTONE PARK",
+    "rent_3br_wk": 530,
+    "rent_2br_wk": 450,
+    "gross_yield": 3.88
+  },
+  {
+    "suburb": "GLEN IRIS",
+    "rent_3br_wk": 838,
+    "rent_2br_wk": 600,
+    "unit_price_2023": 790000,
+    "gross_yield": 1.74
+  },
+  {
+    "suburb": "GLEN WAVERLEY",
+    "rent_3br_wk": 640,
+    "rent_2br_wk": 640,
+    "unit_price_2023": 800000,
+    "gross_yield": 2.0
+  },
+  {
+    "suburb": "GLENROY",
+    "rent_3br_wk": 551,
+    "rent_2br_wk": 490,
+    "unit_price_2023": 578000,
+    "gross_yield": 3.6
+  },
+  {
+    "suburb": "GOLDEN SQUARE",
+    "rent_3br_wk": 480,
+    "rent_2br_wk": 380,
+    "unit_price_2023": 400000,
+    "gross_yield": 4.85
+  },
+  {
+    "suburb": "GREENSBOROUGH",
+    "rent_3br_wk": 570,
+    "rent_2br_wk": 490,
+    "unit_price_2023": 730000,
+    "gross_yield": 3.06
+  },
+  {
+    "suburb": "GROVEDALE",
+    "rent_3br_wk": 500,
+    "rent_2br_wk": 430,
+    "unit_price_2023": 496500,
+    "gross_yield": 3.94
+  },
+  {
+    "suburb": "HAMILTON",
+    "rent_3br_wk": 390,
+    "rent_2br_wk": 320,
+    "unit_price_2023": 348000,
+    "gross_yield": 5.48
+  },
+  {
+    "suburb": "HAMPTON",
+    "rent_3br_wk": 895,
+    "rent_2br_wk": 650,
+    "unit_price_2023": 973000,
+    "gross_yield": 1.96
+  },
+  {
+    "suburb": "HAMPTON PARK",
+    "rent_3br_wk": 550,
+    "rent_2br_wk": 470,
+    "unit_price_2023": 520000,
+    "gross_yield": 4.44
+  },
+  {
+    "suburb": "HASTINGS",
+    "rent_3br_wk": 595,
+    "rent_2br_wk": 470,
+    "unit_price_2023": 561000,
+    "gross_yield": 4.33
+  },
+  {
+    "suburb": "HAWTHORN",
+    "rent_3br_wk": 950,
+    "rent_2br_wk": 600,
+    "unit_price_2023": 588000,
+    "gross_yield": 1.82
+  },
+  {
+    "suburb": "HEIDELBERG",
+    "rent_3br_wk": 600,
+    "rent_2br_wk": 530,
+    "unit_price_2023": 712500,
+    "gross_yield": 2.17
+  },
+  {
+    "suburb": "HEIDELBERG WEST",
+    "rent_3br_wk": 600,
+    "rent_2br_wk": 530,
+    "unit_price_2023": 685000,
+    "gross_yield": 4.16
+  },
+  {
+    "suburb": "HERNE HILL",
+    "rent_3br_wk": 520,
+    "rent_2br_wk": 410,
+    "unit_price_2023": 404500,
+    "gross_yield": 3.78
+  },
+  {
+    "suburb": "HOPPERS CROSSING",
+    "rent_3br_wk": 460,
+    "rent_2br_wk": 405,
+    "unit_price_2023": 450000,
+    "gross_yield": 3.89
+  },
+  {
+    "suburb": "HORSHAM",
+    "rent_3br_wk": 430,
+    "rent_2br_wk": 320,
+    "unit_price_2023": 330000,
+    "gross_yield": 5.59
+  },
+  {
+    "suburb": "HUGHESDALE",
+    "rent_3br_wk": 730,
+    "rent_2br_wk": 570,
+    "unit_price_2023": 795000,
+    "gross_yield": 2.71
+  },
+  {
+    "suburb": "HURSTBRIDGE",
+    "rent_3br_wk": 570,
+    "rent_2br_wk": 490,
+    "gross_yield": 3.31
+  },
+  {
+    "suburb": "IVANHOE",
+    "rent_3br_wk": 750,
+    "rent_2br_wk": 600,
+    "unit_price_2023": 740000,
+    "gross_yield": 2.25
+  },
+  {
+    "suburb": "IVANHOE EAST",
+    "rent_3br_wk": 750,
+    "rent_2br_wk": 600,
+    "unit_price_2023": 1240000,
+    "gross_yield": 1.62
+  },
+  {
+    "suburb": "KANGAROO FLAT",
+    "rent_3br_wk": 480,
+    "rent_2br_wk": 380,
+    "unit_price_2023": 432500,
+    "gross_yield": 4.99
+  },
+  {
+    "suburb": "KEILOR",
+    "rent_3br_wk": 630,
+    "unit_price_2023": 645000,
+    "gross_yield": 2.89
+  },
+  {
+    "suburb": "KEILOR EAST",
+    "rent_3br_wk": 580,
+    "rent_2br_wk": 520,
+    "unit_price_2023": 756000,
+    "gross_yield": 3.08
+  },
+  {
+    "suburb": "KENSINGTON",
+    "rent_3br_wk": 760,
+    "rent_2br_wk": 560,
+    "unit_price_2023": 492500,
+    "gross_yield": 3.8
+  },
+  {
+    "suburb": "KEW",
+    "rent_3br_wk": 850,
+    "rent_2br_wk": 575,
+    "unit_price_2023": 828500,
+    "gross_yield": 1.52
+  },
+  {
+    "suburb": "LALOR",
+    "rent_3br_wk": 510,
+    "rent_2br_wk": 450,
+    "unit_price_2023": 513500,
+    "gross_yield": 3.9
+  },
+  {
+    "suburb": "LARA",
+    "rent_3br_wk": 500,
+    "rent_2br_wk": 415,
+    "unit_price_2023": 485000,
+    "gross_yield": 3.81
+  },
+  {
+    "suburb": "LILYDALE",
+    "rent_3br_wk": 600,
+    "rent_2br_wk": 500,
+    "unit_price_2023": 612000,
+    "gross_yield": 3.37
+  },
+  {
+    "suburb": "MAFFRA",
+    "rent_3br_wk": 450,
+    "rent_2br_wk": 360,
+    "gross_yield": 5.51
+  },
+  {
+    "suburb": "MALVERN",
+    "rent_3br_wk": 1000,
+    "rent_2br_wk": 600,
+    "unit_price_2023": 774500,
+    "gross_yield": 1.73
+  },
+  {
+    "suburb": "MALVERN EAST",
+    "rent_3br_wk": 750,
+    "rent_2br_wk": 600,
+    "unit_price_2023": 616000,
+    "gross_yield": 1.79
+  },
+  {
+    "suburb": "MELTON",
+    "rent_3br_wk": 420,
+    "rent_2br_wk": 365,
+    "unit_price_2023": 370000,
+    "gross_yield": 4.64
+  },
+  {
+    "suburb": "MENTONE",
+    "rent_3br_wk": 750,
+    "rent_2br_wk": 550,
+    "unit_price_2023": 685000,
+    "gross_yield": 2.92
+  },
+  {
+    "suburb": "MIDDLE PARK",
+    "rent_3br_wk": 1150,
+    "rent_2br_wk": 643,
+    "unit_price_2023": 710000,
+    "gross_yield": 2.42
+  },
+  {
+    "suburb": "MILDURA",
+    "rent_3br_wk": 480,
+    "rent_2br_wk": 350,
+    "unit_price_2023": 315000,
+    "gross_yield": 5.72
+  },
+  {
+    "suburb": "MILL PARK",
+    "rent_3br_wk": 530,
+    "rent_2br_wk": 450,
+    "unit_price_2023": 492000,
+    "gross_yield": 3.53
+  },
+  {
+    "suburb": "MITCHAM",
+    "rent_3br_wk": 625,
+    "rent_2br_wk": 520,
+    "unit_price_2023": 820000,
+    "gross_yield": 2.69
+  },
+  {
+    "suburb": "MOE",
+    "rent_3br_wk": 420,
+    "rent_2br_wk": 310,
+    "unit_price_2023": 240000,
+    "gross_yield": 5.98
+  },
+  {
+    "suburb": "MONT ALBERT",
+    "rent_3br_wk": 800,
+    "rent_2br_wk": 570,
+    "unit_price_2023": 770000,
+    "gross_yield": 1.74
+  },
+  {
+    "suburb": "MONTMORENCY",
+    "rent_3br_wk": 650,
+    "rent_2br_wk": 500,
+    "unit_price_2023": 813000,
+    "gross_yield": 3.02
+  },
+  {
+    "suburb": "MOONEE PONDS",
+    "rent_3br_wk": 750,
+    "rent_2br_wk": 550,
+    "unit_price_2023": 500000,
+    "gross_yield": 2.55
+  },
+  {
+    "suburb": "MORDIALLOC",
+    "rent_3br_wk": 750,
+    "rent_2br_wk": 550,
+    "unit_price_2023": 710000,
+    "gross_yield": 2.82
+  },
+  {
+    "suburb": "MORNINGTON",
+    "rent_3br_wk": 675,
+    "rent_2br_wk": 535,
+    "unit_price_2023": 810000,
+    "gross_yield": 3.28
+  },
+  {
+    "suburb": "MORWELL",
+    "rent_3br_wk": 400,
+    "rent_2br_wk": 320,
+    "unit_price_2023": 250000,
+    "gross_yield": 6.22
+  },
+  {
+    "suburb": "MOUNT CLEAR",
+    "rent_3br_wk": 430,
+    "rent_2br_wk": 360,
+    "unit_price_2023": 399000,
+    "gross_yield": 4.26
+  },
+  {
+    "suburb": "MOUNT WAVERLEY",
+    "rent_3br_wk": 660,
+    "rent_2br_wk": 540,
+    "unit_price_2023": 1051000,
+    "gross_yield": 2.15
+  },
+  {
+    "suburb": "MULGRAVE",
+    "rent_3br_wk": 640,
+    "rent_2br_wk": 640,
+    "unit_price_2023": 750000,
+    "gross_yield": 3.2
+  },
+  {
+    "suburb": "MURRUMBEENA",
+    "rent_3br_wk": 730,
+    "rent_2br_wk": 570,
+    "unit_price_2023": 587500,
+    "gross_yield": 2.31
+  },
+  {
+    "suburb": "NARRE WARREN",
+    "rent_3br_wk": 550,
+    "rent_2br_wk": 470,
+    "unit_price_2023": 550000,
+    "gross_yield": 3.93
+  },
+  {
+    "suburb": "NEWBOROUGH",
+    "rent_3br_wk": 420,
+    "rent_2br_wk": 310,
+    "gross_yield": 5.11
+  },
+  {
+    "suburb": "NEWPORT",
+    "rent_3br_wk": 700,
+    "rent_2br_wk": 575,
+    "unit_price_2023": 795500,
+    "gross_yield": 2.85
+  },
+  {
+    "suburb": "NOBLE PARK",
+    "rent_3br_wk": 550,
+    "rent_2br_wk": 495,
+    "unit_price_2023": 538000,
+    "gross_yield": 3.91
+  },
+  {
+    "suburb": "NORTH BENDIGO",
+    "rent_3br_wk": 480,
+    "rent_2br_wk": 398,
+    "unit_price_2023": 395000,
+    "gross_yield": 4.85
+  },
+  {
+    "suburb": "NORTH GEELONG",
+    "rent_3br_wk": 495,
+    "rent_2br_wk": 420,
+    "unit_price_2023": 338500,
+    "gross_yield": 3.98
+  },
+  {
+    "suburb": "NORTH MELBOURNE",
+    "rent_3br_wk": 853,
+    "rent_2br_wk": 660,
+    "unit_price_2023": 550000,
+    "gross_yield": 3.64
+  },
+  {
+    "suburb": "NORTHCOTE",
+    "rent_3br_wk": 850,
+    "rent_2br_wk": 600,
+    "unit_price_2023": 625000,
+    "gross_yield": 2.75
+  },
+  {
+    "suburb": "NUNAWADING",
+    "rent_3br_wk": 625,
+    "rent_2br_wk": 520,
+    "unit_price_2023": 735000,
+    "gross_yield": 2.73
+  },
+  {
+    "suburb": "OAK PARK",
+    "rent_3br_wk": 551,
+    "rent_2br_wk": 490,
+    "unit_price_2023": 611000,
+    "gross_yield": 2.69
+  },
+  {
+    "suburb": "OAKLEIGH",
+    "rent_3br_wk": 630,
+    "rent_2br_wk": 580,
+    "unit_price_2023": 590000,
+    "gross_yield": 2.45
+  },
+  {
+    "suburb": "OCEAN GROVE",
+    "rent_3br_wk": 550,
+    "rent_2br_wk": 468,
+    "unit_price_2023": 885000,
+    "gross_yield": 2.91
+  },
+  {
+    "suburb": "PAKENHAM",
+    "rent_3br_wk": 530,
+    "rent_2br_wk": 450,
+    "unit_price_2023": 478500,
+    "gross_yield": 4.31
+  },
+  {
+    "suburb": "PARKDALE",
+    "rent_3br_wk": 750,
+    "rent_2br_wk": 550,
+    "unit_price_2023": 756500,
+    "gross_yield": 2.88
+  },
+  {
+    "suburb": "PARKVILLE",
+    "rent_3br_wk": 950,
+    "rent_2br_wk": 670,
+    "unit_price_2023": 525000,
+    "gross_yield": 1.99
+  },
+  {
+    "suburb": "PASCOE VALE",
+    "rent_3br_wk": 620,
+    "rent_2br_wk": 500,
+    "unit_price_2023": 623000,
+    "gross_yield": 3.15
+  },
+  {
+    "suburb": "PASCOE VALE SOUTH",
+    "rent_3br_wk": 710,
+    "rent_2br_wk": 550,
+    "unit_price_2023": 592500,
+    "gross_yield": 3.24
+  },
+  {
+    "suburb": "PORT MELBOURNE",
+    "rent_3br_wk": 980,
+    "rent_2br_wk": 745,
+    "unit_price_2023": 743500,
+    "gross_yield": 2.92
+  },
+  {
+    "suburb": "PORTLAND",
+    "rent_3br_wk": 430,
+    "rent_2br_wk": 350,
+    "unit_price_2023": 359000,
+    "gross_yield": 5.11
+  },
+  {
+    "suburb": "PORTSEA",
+    "rent_3br_wk": 570,
+    "rent_2br_wk": 478,
+    "gross_yield": 0.96
+  },
+  {
+    "suburb": "PRAHRAN",
+    "rent_3br_wk": 975,
+    "rent_2br_wk": 650,
+    "unit_price_2023": 515000,
+    "gross_yield": 2.9
+  },
+  {
+    "suburb": "PRESTON",
+    "rent_3br_wk": 675,
+    "rent_2br_wk": 550,
+    "unit_price_2023": 575500,
+    "gross_yield": 3.05
+  },
+  {
+    "suburb": "RESEARCH",
+    "rent_3br_wk": 650,
+    "rent_2br_wk": 500,
+    "gross_yield": 3.28
+  },
+  {
+    "suburb": "RESERVOIR",
+    "rent_3br_wk": 560,
+    "rent_2br_wk": 500,
+    "unit_price_2023": 619500,
+    "gross_yield": 3.35
+  },
+  {
+    "suburb": "RICHMOND",
+    "rent_3br_wk": 990,
+    "rent_2br_wk": 700,
+    "unit_price_2023": 595500,
+    "gross_yield": 3.74
+  },
+  {
+    "suburb": "RINGWOOD",
+    "rent_3br_wk": 600,
+    "rent_2br_wk": 520,
+    "unit_price_2023": 620000,
+    "gross_yield": 3.12
+  },
+  {
+    "suburb": "ROWVILLE",
+    "rent_3br_wk": 600,
+    "rent_2br_wk": 530,
+    "unit_price_2023": 725000,
+    "gross_yield": 2.86
+  },
+  {
+    "suburb": "ROXBURGH PARK",
+    "rent_3br_wk": 506,
+    "rent_2br_wk": 470,
+    "unit_price_2023": 475000,
+    "gross_yield": 4.16
+  },
+  {
+    "suburb": "SALE",
+    "rent_3br_wk": 450,
+    "rent_2br_wk": 360,
+    "unit_price_2023": 330000,
+    "gross_yield": 4.88
+  },
+  {
+    "suburb": "SCORESBY",
+    "rent_3br_wk": 597,
+    "rent_2br_wk": 510,
+    "unit_price_2023": 705000,
+    "gross_yield": 3.25
+  },
+  {
+    "suburb": "SEAFORD",
+    "rent_3br_wk": 560,
+    "rent_2br_wk": 470,
+    "unit_price_2023": 630000,
+    "gross_yield": 3.51
+  },
+  {
+    "suburb": "SEBASTOPOL",
+    "rent_3br_wk": 400,
+    "rent_2br_wk": 350,
+    "unit_price_2023": 350000,
+    "gross_yield": 4.57
+  },
+  {
+    "suburb": "SEDDON",
+    "rent_3br_wk": 720,
+    "rent_2br_wk": 520,
+    "unit_price_2023": 425000,
+    "gross_yield": 3.4
+  },
+  {
+    "suburb": "SEYMOUR",
+    "rent_3br_wk": 420,
+    "rent_2br_wk": 360,
+    "unit_price_2023": 334000,
+    "gross_yield": 4.67
+  },
+  {
+    "suburb": "SHEPPARTON",
+    "rent_3br_wk": 475,
+    "rent_2br_wk": 385,
+    "unit_price_2023": 330000,
+    "gross_yield": 5.55
+  },
+  {
+    "suburb": "SOUTH MELBOURNE",
+    "rent_3br_wk": 950,
+    "rent_2br_wk": 700,
+    "unit_price_2023": 655000,
+    "gross_yield": 3.03
+  },
+  {
+    "suburb": "SOUTH YARRA",
+    "rent_3br_wk": 1100,
+    "rent_2br_wk": 700,
+    "unit_price_2023": 600000,
+    "gross_yield": 2.39
+  },
+  {
+    "suburb": "SPOTSWOOD",
+    "rent_3br_wk": 700,
+    "rent_2br_wk": 575,
+    "unit_price_2023": 774000,
+    "gross_yield": 3.22
+  },
+  {
+    "suburb": "SPRINGVALE",
+    "rent_3br_wk": 570,
+    "rent_2br_wk": 520,
+    "unit_price_2023": 586500,
+    "gross_yield": 3.41
+  },
+  {
+    "suburb": "ST ALBANS",
+    "rent_3br_wk": 470,
+    "rent_2br_wk": 420,
+    "unit_price_2023": 484000,
+    "gross_yield": 3.82
+  },
+  {
+    "suburb": "ST KILDA",
+    "rent_3br_wk": 950,
+    "rent_2br_wk": 630,
+    "unit_price_2023": 534500,
+    "gross_yield": 3.34
+  },
+  {
+    "suburb": "SUNBURY",
+    "rent_3br_wk": 490,
+    "rent_2br_wk": 440,
+    "unit_price_2023": 471500,
+    "gross_yield": 3.86
+  },
+  {
+    "suburb": "SUNSHINE",
+    "rent_3br_wk": 495,
+    "rent_2br_wk": 410,
+    "unit_price_2023": 631000,
+    "gross_yield": 3.23
+  },
+  {
+    "suburb": "SURREY HILLS",
+    "rent_3br_wk": 800,
+    "rent_2br_wk": 570,
+    "unit_price_2023": 906000,
+    "gross_yield": 1.74
+  },
+  {
+    "suburb": "SWAN HILL",
+    "rent_3br_wk": 475,
+    "rent_2br_wk": 355,
+    "unit_price_2023": 340000,
+    "gross_yield": 5.68
+  },
+  {
+    "suburb": "SYDENHAM",
+    "rent_3br_wk": 480,
+    "rent_2br_wk": 450,
+    "unit_price_2023": 470000,
+    "gross_yield": 3.37
+  },
+  {
+    "suburb": "TEMPLESTOWE",
+    "rent_3br_wk": 660,
+    "rent_2br_wk": 595,
+    "unit_price_2023": 836500,
+    "gross_yield": 2.04
+  },
+  {
+    "suburb": "THOMASTOWN",
+    "rent_3br_wk": 510,
+    "rent_2br_wk": 450,
+    "unit_price_2023": 475000,
+    "gross_yield": 3.84
+  },
+  {
+    "suburb": "THORNBURY",
+    "rent_3br_wk": 798,
+    "rent_2br_wk": 520,
+    "unit_price_2023": 628000,
+    "gross_yield": 3.0
+  },
+  {
+    "suburb": "TOORAK",
+    "rent_3br_wk": 1250,
+    "rent_2br_wk": 650,
+    "unit_price_2023": 1200000,
+    "gross_yield": 1.22
+  },
+  {
+    "suburb": "TORQUAY",
+    "rent_3br_wk": 650,
+    "rent_2br_wk": 500,
+    "unit_price_2023": 895000,
+    "gross_yield": 2.69
+  },
+  {
+    "suburb": "TRARALGON",
+    "rent_3br_wk": 460,
+    "rent_2br_wk": 365,
+    "unit_price_2023": 330000,
+    "gross_yield": 4.78
+  },
+  {
+    "suburb": "TULLAMARINE",
+    "rent_3br_wk": 530,
+    "rent_2br_wk": 450,
+    "unit_price_2023": 530000,
+    "gross_yield": 3.83
+  },
+  {
+    "suburb": "VERMONT",
+    "rent_3br_wk": 630,
+    "rent_2br_wk": 578,
+    "unit_price_2023": 989000,
+    "gross_yield": 2.65
+  },
+  {
+    "suburb": "WANTIRNA",
+    "rent_3br_wk": 597,
+    "rent_2br_wk": 510,
+    "unit_price_2023": 715000,
+    "gross_yield": 2.7
+  },
+  {
+    "suburb": "WARRAGUL",
+    "rent_3br_wk": 483,
+    "rent_2br_wk": 410,
+    "unit_price_2023": 425000,
+    "gross_yield": 3.89
+  },
+  {
+    "suburb": "WARRNAMBOOL",
+    "rent_3br_wk": 550,
+    "rent_2br_wk": 420,
+    "unit_price_2023": 420500,
+    "gross_yield": 4.73
+  },
+  {
+    "suburb": "WENDOUREE",
+    "rent_3br_wk": 410,
+    "rent_2br_wk": 350,
+    "unit_price_2023": 385000,
+    "gross_yield": 4.54
+  },
+  {
+    "suburb": "WERRIBEE",
+    "rent_3br_wk": 460,
+    "rent_2br_wk": 405,
+    "unit_price_2023": 423000,
+    "gross_yield": 3.92
+  },
+  {
+    "suburb": "WEST FOOTSCRAY",
+    "rent_3br_wk": 600,
+    "rent_2br_wk": 475,
+    "unit_price_2023": 516500,
+    "gross_yield": 3.41
+  },
+  {
+    "suburb": "WEST MELBOURNE",
+    "rent_3br_wk": 853,
+    "rent_2br_wk": 660,
+    "unit_price_2023": 623500,
+    "gross_yield": 3.65
+  },
+  {
+    "suburb": "WHITTLESEA",
+    "rent_3br_wk": 510,
+    "rent_2br_wk": 440,
+    "unit_price_2023": 482500,
+    "gross_yield": 3.49
+  },
+  {
+    "suburb": "WILLIAMSTOWN",
+    "rent_3br_wk": 800,
+    "rent_2br_wk": 523,
+    "unit_price_2023": 748000,
+    "gross_yield": 2.63
+  },
+  {
+    "suburb": "WINDSOR",
+    "rent_3br_wk": 975,
+    "rent_2br_wk": 650,
+    "unit_price_2023": 550000,
+    "gross_yield": 3.47
+  },
+  {
+    "suburb": "WODONGA",
+    "rent_3br_wk": 500,
+    "rent_2br_wk": 385,
+    "unit_price_2023": 351000,
+    "gross_yield": 4.77
+  },
+  {
+    "suburb": "YARRAVILLE",
+    "rent_3br_wk": 720,
+    "rent_2br_wk": 520,
+    "unit_price_2023": 600000,
+    "gross_yield": 3.4
+  }
+]
