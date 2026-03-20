@@ -2,7 +2,9 @@
 builder = "NIXPACKS"
 
 [deploy]
-startCommand = "uvicorn api.main:app --host 0.0.0.0 --port $PORT"
+# Use stdlib asyncio loop (not uvloop): uvloop + asyncpg TLS has hit bogus
+# SSL verify failures against Supabase pooler on Nixpacks/Railway.
+startCommand = "uvicorn api.main:app --host 0.0.0.0 --port $PORT --loop asyncio"
 healthcheckPath = "/health"
 healthcheckTimeout = 300
 restartPolicyType = "ON_FAILURE"
