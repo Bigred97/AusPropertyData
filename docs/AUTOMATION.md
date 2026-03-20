@@ -25,6 +25,7 @@ DFFH runs first because **`dffh.vic.gov.au` downloads usually succeed from GitHu
 | `SUPABASE_DB_URL` | Yes — use the URI from Supabase (transaction pooler `:6543` is fine for CI; **direct** `db.*.supabase.co:5432` often behaves better for local asyncpg — see `.env.example`) |
 | `VPSR_HOUSES_URL` | No — HTTPS URL to the house `.xls` if `land.vic` blocks the runner (e.g. raw file on a release asset or your own mirror) |
 | `VPSR_UNITS_URL` | No — same for the unit `.xls` |
+| `DFFH_RENTAL_URL` | No — HTTPS mirror of the DFFH `.xlsx` when `dffh.vic.gov.au` stalls on the runner (same pattern as VPSR mirrors) |
 | `SLACK_WEBHOOK` | No — if set, failed runs post a message |
 
 ## VPSR mirror for CI (fixes land.vic 403 on GitHub)

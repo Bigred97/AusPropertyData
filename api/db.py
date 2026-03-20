@@ -23,7 +23,7 @@ async def get_pool():
             )
         ssl_kw = {}
         sa = ssl_arg_for_asyncpg()
-        if sa is not None:
+        if sa is not False:
             ssl_kw["ssl"] = sa
         pool = await asyncpg.create_pool(
             _pool_url,
