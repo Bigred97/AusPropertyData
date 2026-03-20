@@ -59,7 +59,8 @@ Writes **[docs/DEPLOYMENT.md](docs/DEPLOYMENT.md)** with Railway service IDs, pu
 
 ## API Endpoints
 
-- `GET /health` — Health check
+- `GET /health` — Liveness (no database; use for load balancers)
+- `GET /health/ready` — Readiness (`SELECT 1` against Supabase; returns 503 if DB unreachable)
 - `GET /suburbs/` — List suburbs (with filters)
 - `GET /suburbs/top?profile=balanced` — Top suburbs by profile
 - `GET /suburbs/search?q=...` — Fuzzy suburb search

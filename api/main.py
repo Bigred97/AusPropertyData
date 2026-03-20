@@ -1,3 +1,4 @@
+import asyncio
 import logging
 import os
 import re
@@ -21,8 +22,11 @@ logger = logging.getLogger(__name__)
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    """DB pool and schema probe run lazily on first request (see api.db.get_pool)."""
+    """DB pool is created lazily on first request; close it cleanly on shutdown."""
     yield
+    from api.db import close_pool
+
+    await close_pool()
 
 
 # ENV=production (explicit) or Railway’s built-in flag (CLI vars sometimes omit ENV)
@@ -41,6 +45,16 @@ app = FastAPI(
 )
 
 app.add_middleware(GZipMiddleware, minimum_size=500)
+
+
+@app.middleware("http")
+async def _security_headers(request: Request, call_next):
+    response = await call_next(request)
+    response.headers.setdefault("X-Content-Type-Options", "nosniff")
+    response.headers.setdefault("X-Frame-Options", "DENY")
+    response.headers.setdefault("Referrer-Policy", "strict-origin-when-cross-origin")
+    return response
+
 
 # Comma-separated list; override in Railway with your Lovable URL(s).
 _default_cors = (
@@ -93,7 +107,26 @@ app.include_router(calculators.router, prefix="/calculators", tags=["calculators
 
 @app.get("/health")
 async def health():
+    """Liveness: no DB. Use for Railway/Kubernetes probes."""
     return {"status": "ok"}
+
+
+@app.get("/health/ready")
+async def health_ready():
+    """Readiness: verifies Supabase/Postgres accepts a connection (503 if not)."""
+    from api.db import get_pool
+
+    try:
+        p = await asyncio.wait_for(get_pool(), timeout=10.0)
+        async with p.acquire() as conn:
+            await conn.fetchval("SELECT 1")
+    except Exception:
+        logger.exception("Readiness check failed")
+        return JSONResponse(
+            status_code=503,
+            content={"status": "unavailable", "database": False},
+        )
+    return {"status": "ok", "database": True}
 
 
 @app.exception_handler(RequestValidationError)

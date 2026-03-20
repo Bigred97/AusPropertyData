@@ -46,3 +46,12 @@ async def get_conn():
     p = await get_pool()
     async with p.acquire() as conn:
         yield conn
+
+
+async def close_pool() -> None:
+    """Close the asyncpg pool on app shutdown (deploy / uvicorn reload)."""
+    global pool
+    async with _pool_lock:
+        if pool is not None:
+            await pool.close()
+            pool = None

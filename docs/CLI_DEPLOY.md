@@ -15,7 +15,7 @@ Ensure **Railway → Variables** includes a valid `SUPABASE_DB_URL` (and `CORS_O
 
 If deploy fails with **“network process”** or the app won’t start, check for **typos in variables** (merged CORS URLs, missing `@` in the DB URI): [RAILWAY_ENV.md](RAILWAY_ENV.md).
 
-The API **does not open Postgres during process startup**; `/health` returns immediately and the DB pool (plus schema probe) is created on the **first** request. That keeps Railway healthchecks green while Postgres or DNS is still settling.
+The API **does not open Postgres during process startup**. **`GET /health`** is liveness only (always fast). The DB pool (plus schema probe) is created on the **first** DB-backed request. Railway’s **`healthcheckPath`** should stay **`/health`** so deploys are not blocked while Postgres warms up. Use **`GET /health/ready`** manually or for a stricter probe to verify Supabase connectivity.
 
 ## Supabase (link project for CLI)
 
