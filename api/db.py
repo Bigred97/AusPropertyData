@@ -21,7 +21,14 @@ def _connect_ssl():
     """Supabase requires TLS; pooler and direct both expect SSL."""
     if os.environ.get("DATABASE_SSL", "").lower() in ("0", "false", "no"):
         return False
-    return ssl.create_default_context()
+    # Nixpacks/Railway images often ship an incomplete CA bundle; certifi matches
+    # public roots asyncpg needs for *.pooler.supabase.com / *.supabase.co.
+    try:
+        import certifi
+
+        return ssl.create_default_context(cafile=certifi.where())
+    except ImportError:
+        return ssl.create_default_context()
 
 
 async def get_pool():
