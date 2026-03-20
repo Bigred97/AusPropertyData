@@ -121,14 +121,22 @@ async def compute_yield_update(conn, suburb: str, rent_3br: int) -> None:
 async def ingest_dffh_rental():
     print("DFFH: loading rental data...")
     local = os.environ.get("DFFH_RENTAL_XLSX")
+    mirror = (os.environ.get("DFFH_RENTAL_URL") or "").strip()
     if local and os.path.isfile(local):
         filepath = os.path.abspath(local)
         print(f"  Using local file: {filepath}")
+    elif mirror:
+        print(f"  Using DFFH_RENTAL_URL mirror: {mirror[:100]}…")
+        async with ingestion_http_client() as client:
+            resp = await client.get(mirror, timeout=120)
+            resp.raise_for_status()
+        filepath = "/tmp/dffh_rental.xlsx"
+        with open(filepath, "wb") as f:
+            f.write(resp.content)
     else:
         download_url = await get_rental_download_url()
         print(f"  Download: {download_url}")
         async with ingestion_http_client() as client:
-            # Vic gov sites can be slow from GitHub runners; avoid flaky ReadTimeout
             resp = await client.get(download_url, timeout=300)
             resp.raise_for_status()
         filepath = "/tmp/dffh_rental.xlsx"

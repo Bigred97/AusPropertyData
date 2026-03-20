@@ -31,6 +31,8 @@ jobs:
       - name: Run DFFH rental
         env:
           SUPABASE_DB_URL: ${{ secrets.SUPABASE_DB_URL }}
+          # Optional: GitHub-hosted mirror — dffh.vic.gov.au often stalls (httpx ReadTimeout) on Actions
+          DFFH_RENTAL_URL: ${{ secrets.DFFH_RENTAL_URL }}
         run: python -m ingestion.dffh_rental
 
       - name: Run VPSR houses
