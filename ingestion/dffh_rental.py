@@ -128,7 +128,8 @@ async def ingest_dffh_rental():
         download_url = await get_rental_download_url()
         print(f"  Download: {download_url}")
         async with ingestion_http_client() as client:
-            resp = await client.get(download_url, timeout=120)
+            # Vic gov sites can be slow from GitHub runners; avoid flaky ReadTimeout
+            resp = await client.get(download_url, timeout=300)
             resp.raise_for_status()
         filepath = "/tmp/dffh_rental.xlsx"
         with open(filepath, "wb") as f:
