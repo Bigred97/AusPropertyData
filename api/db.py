@@ -21,6 +21,13 @@ def _connect_ssl():
     """Supabase requires TLS; pooler and direct both expect SSL."""
     if os.environ.get("DATABASE_SSL", "").lower() in ("0", "false", "no"):
         return False
+    # Last resort: encrypt only (no CA verify). Some hosts still fail verify despite
+    # certifi; set only if you accept MITM risk on that network path.
+    if os.environ.get("DATABASE_SSL_INSECURE", "").lower() in ("1", "true", "yes"):
+        ctx = ssl.SSLContext(ssl.PROTOCOL_TLS_CLIENT)
+        ctx.check_hostname = False
+        ctx.verify_mode = ssl.CERT_NONE
+        return ctx
     # Nixpacks/Railway images often ship an incomplete CA bundle; certifi matches
     # public roots asyncpg needs for *.pooler.supabase.com / *.supabase.co.
     try:
